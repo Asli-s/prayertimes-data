@@ -19,7 +19,7 @@ import pack
 
 API = "https://awqatsalah.diyanet.gov.tr"
 TURKEY_ID = 2
-ANKARA_ID = 9206
+FIRST_CALENDAR_YEAR = 2017
 MONTHS_AHEAD = 13
 KEEP_PAST_DAYS = 31
 REQUEST_GAP_SECONDS = 0.3
@@ -93,24 +93,34 @@ def load_existing(path):
         return {}
 
 
-def fetch_calendar(api, out_dir, start, end):
-    """Diyanet's religious days and Hijri dates, which can differ by a day from other Hijri calendars."""
-    os.makedirs(os.path.join(out_dir, "calendar"), exist_ok=True)
-    for year in range(start.year, end.year + 1):
-        data = api.get(f"/api/IslamicReligiousDay/ByYear?year={year}")
-        with open(os.path.join(out_dir, "calendar", f"religious-days-{year}.json"), "w", encoding="utf-8") as f:
+def fetch_calendar(api, out_dir, today):
+    """Diyanet's religious days, and from them the first day of each Hijri month in Diyanet's calendar,
+    which can differ by a day from other Hijri calendars."""
+    folder = os.path.join(out_dir, "calendar")
+    os.makedirs(folder, exist_ok=True)
+    for year in range(FIRST_CALENDAR_YEAR, today.year + 2):
+        path = os.path.join(folder, f"religious-days-{year}.json")
+        # A finished year never changes, so it is fetched once; the current and next year are fetched
+        # every run because Diyanet publishes next year's list late in the year
+        if os.path.exists(path) and year < today.year:
+            continue
+        data = api.get(f"/api/IslamicReligiousDay/ByYear?year={year}") or []
+        if not data and os.path.exists(path):
+            continue
+        with open(path, "w", encoding="utf-8") as f:
             json.dump(data, f, ensure_ascii=False, indent=1)
 
-    # The Hijri date is the same across Turkey, so one district's rows are enough
-    rows = api.post("/api/PrayerTime/DateRange", {
-        "cityId": ANKARA_ID,
-        "startDate": start.isoformat() + "T00:00:00",
-        "endDate": end.isoformat() + "T00:00:00",
-    }) or []
-    hijri = {parse_date(row["gregorianDateShortIso8601"]).isoformat(): row["hijriDateShortIso8601"] for row in rows}
-    with open(os.path.join(out_dir, "calendar", "hijri-dates.json"), "w", encoding="utf-8") as f:
-        json.dump(dict(sorted(hijri.items())), f, ensure_ascii=False, separators=(",", ":"))
-    print(f"Calendar: {len(hijri)} Hijri dates; sample row keys: {sorted(rows[0]) if rows else []}")
+    months = {}
+    for name in sorted(os.listdir(folder)):
+        if not name.startswith("religious-days-"):
+            continue
+        with open(os.path.join(folder, name), encoding="utf-8") as f:
+            for day in json.load(f):
+                if day["hijriDay"] == 1:
+                    months[f"{day['hijriYear']}-{day['hijriMonth']:02d}"] = day["gregorianDate"][:10]
+    with open(os.path.join(folder, "months.json"), "w", encoding="utf-8") as f:
+        json.dump(dict(sorted(months.items())), f, separators=(",", ":"))
+    print(f"Calendar: {len(months)} Hijri month starts")
 
 
 def main():
@@ -130,7 +140,7 @@ def main():
     except Exception as e:
         print("Quota check failed:", e)
     try:
-        fetch_calendar(api, out_dir, start, end)
+        fetch_calendar(api, out_dir, today)
     except Exception as e:
         # Prayer times matter more; publish them even when the calendar fails
         print("FAILED calendar:", e)
