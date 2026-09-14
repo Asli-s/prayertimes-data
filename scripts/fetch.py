@@ -102,12 +102,20 @@ def main():
     end = add_months(start, MONTHS_AHEAD) - dt.timedelta(days=1)
     oldest_kept = (today - dt.timedelta(days=KEEP_PAST_DAYS)).isoformat()
 
+    with open(os.path.join(os.path.dirname(__file__), "coordinates.json"), encoding="utf-8") as f:
+        coordinates = json.load(f)
+
     districts = []
     failures = []
     for state in api.get(f"/api/Place/States/{TURKEY_ID}"):
         for city in api.get(f"/api/Place/Cities/{state['id']}"):
-            districts.append({"id": city["id"], "name": city["name"],
-                              "stateId": state["id"], "state": state["name"]})
+            district = {"id": city["id"], "name": city["name"],
+                        "stateId": state["id"], "state": state["name"]}
+            if str(city["id"]) in coordinates:
+                district["lat"], district["lon"] = coordinates[str(city["id"])]
+            else:
+                print("No coordinates for", city["id"], city["name"])
+            districts.append(district)
 
     limit = int(os.environ.get("DISTRICT_LIMIT") or 0)
     if limit:
