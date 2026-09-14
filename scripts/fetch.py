@@ -19,6 +19,7 @@ import pack
 
 API = "https://awqatsalah.diyanet.gov.tr"
 TURKEY_ID = 2
+ANKARA_ID = 9206
 MONTHS_AHEAD = 13
 KEEP_PAST_DAYS = 31
 REQUEST_GAP_SECONDS = 0.3
@@ -92,6 +93,26 @@ def load_existing(path):
         return {}
 
 
+def fetch_calendar(api, out_dir, start, end):
+    """Diyanet's religious days and Hijri dates, which can differ by a day from other Hijri calendars."""
+    os.makedirs(os.path.join(out_dir, "calendar"), exist_ok=True)
+    for year in range(start.year, end.year + 1):
+        data = api.get(f"/api/IslamicReligiousDay/ByYear?year={year}")
+        with open(os.path.join(out_dir, "calendar", f"religious-days-{year}.json"), "w", encoding="utf-8") as f:
+            json.dump(data, f, ensure_ascii=False, indent=1)
+
+    # The Hijri date is the same across Turkey, so one district's rows are enough
+    rows = api.post("/api/PrayerTime/DateRange", {
+        "cityId": ANKARA_ID,
+        "startDate": start.isoformat() + "T00:00:00",
+        "endDate": end.isoformat() + "T00:00:00",
+    }) or []
+    hijri = {parse_date(row["gregorianDateShortIso8601"]).isoformat(): row["hijriDateShortIso8601"] for row in rows}
+    with open(os.path.join(out_dir, "calendar", "hijri-dates.json"), "w", encoding="utf-8") as f:
+        json.dump(dict(sorted(hijri.items())), f, ensure_ascii=False, separators=(",", ":"))
+    print(f"Calendar: {len(hijri)} Hijri dates; sample row keys: {sorted(rows[0]) if rows else []}")
+
+
 def main():
     out_dir = sys.argv[1] if len(sys.argv) > 1 else "site"
     os.makedirs(os.path.join(out_dir, "d"), exist_ok=True)
@@ -103,6 +124,20 @@ def main():
     start = today.replace(day=1)
     end = add_months(start, MONTHS_AHEAD) - dt.timedelta(days=1)
     oldest_kept = (today - dt.timedelta(days=KEEP_PAST_DAYS)).isoformat()
+
+    try:
+        print("Quota:", json.dumps(api.get("/api/Quota/My"), ensure_ascii=False))
+    except Exception as e:
+        print("Quota check failed:", e)
+    try:
+        fetch_calendar(api, out_dir, start, end)
+    except Exception as e:
+        # Prayer times matter more; publish them even when the calendar fails
+        print("FAILED calendar:", e)
+        if os.environ.get("CALENDAR_ONLY") == "true":
+            sys.exit(1)
+    if os.environ.get("CALENDAR_ONLY") == "true":
+        return
 
     with open(os.path.join(os.path.dirname(__file__), "coordinates.json"), encoding="utf-8") as f:
         coordinates = json.load(f)

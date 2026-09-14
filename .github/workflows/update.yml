@@ -8,6 +8,10 @@ on:
       district_limit:
         description: "Only fetch this many districts (0 = all). Use a small number for a test run."
         default: "0"
+      calendar_only:
+        description: "Only fetch religious days and Hijri dates (uses no prayer time quota for districts)"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -40,6 +44,7 @@ jobs:
           AWQAT_USERNAME: ${{ secrets.AWQAT_USERNAME }}
           AWQAT_PASSWORD: ${{ secrets.AWQAT_PASSWORD }}
           DISTRICT_LIMIT: ${{ inputs.district_limit }}
+          CALENDAR_ONLY: ${{ inputs.calendar_only }}
         run: python -u scripts/fetch.py site
 
       # gh-pages is replaced by a single commit each run so the repo does not grow every month.
