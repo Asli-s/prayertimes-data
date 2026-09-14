@@ -1,0 +1,56 @@
+name: Update prayer times
+
+on:
+  schedule:
+    - cron: "17 3 2 * *"
+  workflow_dispatch:
+    inputs:
+      district_limit:
+        description: "Only fetch this many districts (0 = all). Use a small number for a test run."
+        default: "0"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Load previously published data
+        run: |
+          if git fetch --depth=1 origin gh-pages; then
+            git worktree add site origin/gh-pages
+          else
+            mkdir site
+          fi
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch from Diyanet
+        env:
+          AWQAT_USERNAME: ${{ secrets.AWQAT_USERNAME }}
+          AWQAT_PASSWORD: ${{ secrets.AWQAT_PASSWORD }}
+          DISTRICT_LIMIT: ${{ inputs.district_limit }}
+        run: python scripts/fetch.py site
+
+      # gh-pages is replaced by a single commit each run so the repo does not grow every month.
+      - name: Publish
+        run: |
+          cd site
+          rm -rf .git
+          touch .nojekyll
+          git init -q -b gh-pages
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -q -m "Prayer times $(date -u +%F)"
+          git push -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" gh-pages
