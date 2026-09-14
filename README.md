@@ -6,6 +6,7 @@ Diyanet İşleri Başkanlığı Awqat Salah API.
 Kaynak: Diyanet İşleri Başkanlığı
 
 - `districts.json` — district list (`id`, `name`, `stateId`, `state`, `lat`, `lon`)
+- `turkey.bin.gz` — every district's times in one compact file (about 0.5 MB) for the app; layout in `scripts/pack.py`
 - `d/{id}.json` — `days` maps `YYYY-MM-DD` to `"imsak güneş öğle ikindi akşam yatsı"`
 
 District coordinates in `scripts/coordinates.json` are district centres from

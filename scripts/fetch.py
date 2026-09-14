@@ -15,6 +15,8 @@ import time
 import urllib.error
 import urllib.request
 
+import pack
+
 API = "https://awqatsalah.diyanet.gov.tr"
 TURKEY_ID = 2
 MONTHS_AHEAD = 13
@@ -121,6 +123,7 @@ def main():
     if limit:
         districts = districts[:limit]
 
+    days_by_id = {}
     for i, district in enumerate(districts, 1):
         path = os.path.join(out_dir, "d", f"{district['id']}.json")
         days = {k: v for k, v in load_existing(path).items() if k >= oldest_kept}
@@ -136,6 +139,7 @@ def main():
                                      ("fajr", "sunrise", "dhuhr", "asr", "maghrib", "isha"))
         except Exception as e:
             failures.append(f"{district['id']} {district['name']}: {e}")
+        days_by_id[district["id"]] = days
         with open(path, "w", encoding="utf-8") as f:
             json.dump({"id": district["id"], "days": dict(sorted(days.items()))},
                       f, ensure_ascii=False, separators=(",", ":"))
@@ -145,6 +149,12 @@ def main():
     with open(os.path.join(out_dir, "districts.json"), "w", encoding="utf-8") as f:
         json.dump({"updated": today.isoformat(), "districts": districts},
                   f, ensure_ascii=False, separators=(",", ":"))
+
+    with open(os.path.join(out_dir, "turkey.bin.gz"), "wb") as f:
+        packed = pack.pack(districts, days_by_id)
+        if pack.unpack(packed) != {d["id"]: days_by_id[d["id"]] for d in districts}:
+            sys.exit("turkey.bin.gz does not read back identically")
+        f.write(packed)
 
     print(f"{len(districts)} districts, {len(failures)} failed")
     for line in failures:
