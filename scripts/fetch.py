@@ -19,7 +19,6 @@ import pack
 
 API = "https://awqatsalah.diyanet.gov.tr"
 TURKEY_ID = 2
-FIRST_CALENDAR_YEAR = 2017
 MONTHS_AHEAD = 13
 KEEP_PAST_DAYS = 31
 REQUEST_GAP_SECONDS = 0.3
@@ -98,12 +97,9 @@ def fetch_calendar(api, out_dir, today):
     which can differ by a day from other Hijri calendars."""
     folder = os.path.join(out_dir, "calendar")
     os.makedirs(folder, exist_ok=True)
-    for year in range(FIRST_CALENDAR_YEAR, today.year + 2):
+    # The API only serves the current and next year, so older years build up here as time passes
+    for year in range(today.year, today.year + 2):
         path = os.path.join(folder, f"religious-days-{year}.json")
-        # A finished year never changes, so it is fetched once; the current and next year are fetched
-        # every run because Diyanet publishes next year's list late in the year
-        if os.path.exists(path) and year < today.year:
-            continue
         data = api.get(f"/api/IslamicReligiousDay/ByYear?year={year}") or []
         if not data and os.path.exists(path):
             continue
