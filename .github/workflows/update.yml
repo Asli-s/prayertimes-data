@@ -40,7 +40,7 @@ jobs:
           AWQAT_USERNAME: ${{ secrets.AWQAT_USERNAME }}
           AWQAT_PASSWORD: ${{ secrets.AWQAT_PASSWORD }}
           DISTRICT_LIMIT: ${{ inputs.district_limit }}
-        run: python scripts/fetch.py site
+        run: python -u scripts/fetch.py site
 
       # gh-pages is replaced by a single commit each run so the repo does not grow every month.
       - name: Publish
