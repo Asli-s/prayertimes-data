@@ -1,0 +1,63 @@
+name: Daily content
+
+on:
+  schedule:
+    # 00:10 Türkiye time, and again two hours later in case GitHub skipped or delayed the first run
+    - cron: "10 21 * * *"
+    - cron: "10 23 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update
+  cancel-in-progress: false
+
+jobs:
+  daily:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v7
+
+      # Unlike the monthly run this job cannot rebuild the site, so a missing gh-pages must fail the job
+      - name: Load published site and archive
+        run: |
+          git fetch --depth=1 origin gh-pages
+          git worktree add site origin/gh-pages
+          if git fetch --depth=1 origin archive; then
+            git worktree add archive origin/archive
+          else
+            mkdir archive
+            git -C archive init -q -b archive
+          fi
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+
+      - name: Fetch from Diyanet
+        env:
+          AWQAT_USERNAME: ${{ secrets.AWQAT_USERNAME }}
+          AWQAT_PASSWORD: ${{ secrets.AWQAT_PASSWORD }}
+          PYTHONIOENCODING: utf-8
+        run: python -u scripts/daily.py archive site
+
+      - name: Publish
+        env:
+          REMOTE: https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git
+        run: |
+          commit_and_push() {
+            git -C "$1" add -A
+            if git -C "$1" diff --cached --quiet; then
+              echo "$1: no changes"
+              return
+            fi
+            git -C "$1" -c user.name="github-actions[bot]" \
+              -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
+              commit -q -m "$3"
+            git -C "$1" push -q "$REMOTE" "HEAD:$2"
+          }
+          commit_and_push archive archive "Daily content $(TZ=Europe/Istanbul date +%F)"
+          commit_and_push site gh-pages "Daily content $(TZ=Europe/Istanbul date +%F)"
