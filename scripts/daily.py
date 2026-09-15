@@ -50,7 +50,7 @@ def main():
     raw = api.get("/api/DailyContent")
 
     entry = {k: (raw.get(k) or "").strip() for k in FIELDS}
-    if not entry["hadith"] or not entry["verse"]:
+    if not entry["verse"] or not entry["verseSource"]:
         sys.exit("Incomplete daily content: " + json.dumps(raw, ensure_ascii=False))
 
     today = dt.datetime.now(TURKEY).date()
