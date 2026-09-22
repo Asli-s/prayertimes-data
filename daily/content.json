@@ -1,13 +1,5 @@
 {
  "days": {
-  "2026-09-15": {
-   "hadith": "\"Sizden biriniz mal ve yaradılış yönünden kendisinden üstün birini görürse hemen ardından kendinden aşağı durumda bulunan kimselere baksın.\"",
-   "hadithSource": "(Buhârî, \"Rikak\",36)",
-   "pray": "\"Ey Rabbim! Beni ve soyumdan gelecekleri namazını dosdoğru kılanlardan eyle! Ey Rabbimiz! Duamı kabul et!\"",
-   "praySource": "(İbrahim, 14/40)",
-   "verse": "\"O, hanginizin daha güzel amel yapacağını sınamak için ölümü ve hayatı yaratandır. O, mutlak güç sahibidir, çok bağışlayandır.\"",
-   "verseSource": "(Mülk, 67/2)"
-  },
   "2026-09-16": {
    "hadith": "\"Size cehenneme girmeyecek kimseleri bildireyim mi? Cana yakın, uysal, yumuşak huylu ve kolay geçinilen herkes.\"",
    "hadithSource": "(Tirmizî, \"Sıfatü'l-Kıyâme\", 45)",
@@ -55,6 +47,14 @@
    "praySource": "(Furkan, 25/65)",
    "verse": "“Herhangi birinize ölüm gelip de; Rabbim! Beni yakın bir süreye kadar geciktirsen de sadaka verip iyilerden olsam! demesinden önce, size verdiğimiz rızıktan harcayın.”",
    "verseSource": "(Münâﬁkûn, 63/10)"
+  },
+  "2026-09-22": {
+   "hadith": "\"Temizlik imanın yarısıdır... ”",
+   "hadithSource": "(Müslim, \"Tahâret\", 1)",
+   "pray": "\"Ey Rabbimiz! Bize katından bir rahmet ver ve içinde bulunduğumuz şu durumda bize kurtuluş ve doğruluğa ulaşmayı kolaylaştır\"",
+   "praySource": "(Kehf,18/10)",
+   "verse": "\"Allah, eceli geldiğinde hiçbir kimseyi asla ertelemez. Allah bütün yaptıklarınızdan haberdardır.\"",
+   "verseSource": "(Münafikûn, 63/11)"
   }
  }
 }
