@@ -1,13 +1,5 @@
 {
  "days": {
-  "2026-09-17": {
-   "hadith": "\"Sizin en hayırlılarınız, hanımlarına karşı en iyi davrananlarınızdır.\"",
-   "hadithSource": "(Tirmizî, \"Radâ’, 11; İbn Mâce, “Nikâh”, 50)",
-   "pray": "\"Ey Rabbim! Bilmediğim şeyi istemekten Sana sığınırım. Eğer Sen, beni bağışlamaz ve bana merhamet etmezsenben hüsrana düşenlerden olurum!\"",
-   "praySource": "(Hûd, 11/47)",
-   "verse": "\"Görmedikleri halde Rablerinden korkanlar için bir bağışlanma ve büyük bir mükafat vardır.\"",
-   "verseSource": "(Mülk,67/12)"
-  },
   "2026-09-18": {
    "hadith": "\"Söz taşıyanlar (cezalarını çekmeden ya da affedilmedikçe) cennete giremezler.\"",
    "hadithSource": "(Müslim, \"Îmân\", 168; Tirmizî,\" Birr\", 79)",
@@ -55,6 +47,14 @@
    "praySource": "(A'râf, 7/47)",
    "verse": "\"Ey iman edenler! Mallarınız ve evlatlarınız sizi, Allah'ı zikretmekten alıkoymasın. Her kim bunu yaparsa, işte onlar ziyana uğrayanların ta kendileridir.\"",
    "verseSource": "(Münafikûn, 63/9)"
+  },
+  "2026-09-24": {
+   "hadith": "\"Üç dua vardır ki, bunlar şüphesiz kabul edilir: Mazlumun duası, yolcunun duası ve babanın evladına duası.\"",
+   "hadithSource": "(İbn Mâce, “Dua”, 11)",
+   "pray": "\"Ey Rabbimiz! Bizi, inkar edenlerin zulmüne uğratma. Bizi bağışla. Ey Rabbimiz! Şüphesiz sen mutlak güç sahibisin, hüküm ve hikmet sahibisin.\"",
+   "praySource": "(Mümtehine, 60/5)",
+   "verse": "\"Rabbinin adını an ve bütün benliğinle O'na yönel.\"",
+   "verseSource": "(Müzzemmil, 73/8)"
   }
  }
 }
