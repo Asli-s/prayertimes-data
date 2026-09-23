@@ -57,7 +57,13 @@ jobs:
             git -C "$1" -c user.name="github-actions[bot]" \
               -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
               commit -q -m "$3"
-            git -C "$1" push -q "$REMOTE" "HEAD:$2"
+            # GitHub occasionally answers "remote rejected (failed)" for no reason on our side
+            for attempt in 1 2 3; do
+              git -C "$1" push -q "$REMOTE" "HEAD:$2" && return
+              echo "$1: push failed (attempt $attempt)"
+              sleep 30
+            done
+            return 1
           }
           commit_and_push archive archive "Daily content $(TZ=Europe/Istanbul date +%F)"
           commit_and_push site gh-pages "Daily content $(TZ=Europe/Istanbul date +%F)"
