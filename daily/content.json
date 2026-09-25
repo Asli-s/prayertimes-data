@@ -1,13 +1,5 @@
 {
  "days": {
-  "2026-09-19": {
-   "hadith": "\"Şerrinden komşusunun emin olmadığı kimse cennete giremez.\"",
-   "hadithSource": "(Müslim, \"İman\", 73)",
-   "pray": "\"Ey Rabbimiz! Biz inandık, bizi bağışla, bize merhamet et, sen merhamet edenlerin en hayırlısısın\"",
-   "praySource": "(Mü'minûn, 23/109)",
-   "verse": "\"O diridir. O'ndan başka hiçbir ilâh yoktur. O halde sadece Allah'a itaat ederek (samimi olarak) O'na ibadet edin. Hamd, âlemlerin Rabbine mahsustur.\"",
-   "verseSource": "(Mü'min, 40/65)"
-  },
   "2026-09-20": {
    "hadith": "\"Şu iki göze cehennem ateşi dokunmaz: Allah korkusundan ağlayan göz ve Allah rızası için nöbet bekleyen göz.\"",
    "hadithSource": "(Tirmizî, \"Fedâilü'l-cihâd\", 12)",
@@ -55,6 +47,14 @@
    "praySource": "(Furkan, 25/74)",
    "verse": "\"Allah'ın âyetlerine inanmayanları Allah elbette doğru yola iletmez. Onlar için elem dolu bir azap vardır.\"",
    "verseSource": "(Nahl, 16/104)"
+  },
+  "2026-09-26": {
+   "hadith": "\"Yoksul kimse, kapı kapı dolaşıp bir iki lokma, bir iki hurma ile savuşturulan kimse değildir. Gerçek yoksul, (sadaka istemeyen) iffetli ve nezih kimsedir.\"",
+   "hadithSource": "(Buhârî, \"Zekat\", 25; Müslim, \"Zekat\", 102)",
+   "pray": "\"Ey Rabbimiz! nûrumuzu bizim için tamamla, bizi bağışla; çünkü senin her şeye hakkıyla gücün yeter\"",
+   "praySource": "(Tahrim, 66/8)",
+   "verse": "\"Kalbi imanla dolu olduğu halde zorlanan kimse hariç, inandıktan sonra Allah'ı inkâr eden ve böylece göğsünü küfre açanlara Allah'tan gazap iner ve onlar için büyük bir azap vardır.\"",
+   "verseSource": "(Nahl, 16/106)"
   }
  }
 }
