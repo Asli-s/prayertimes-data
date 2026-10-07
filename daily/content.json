@@ -1,13 +1,5 @@
 {
  "days": {
-  "2026-09-30": {
-   "hadith": "\"Zulümden sakınıp kaçınınız. Çünkü zulüm, kıyamet gününde zâlime zifiri karanlık olacaktır.",
-   "hadithSource": "(Müslim, \"Birr\", 56 )",
-   "pray": "\"Ey rahmeti ile bütün varlığı, bütün kâinatı, bütün insanlığı yaratan, rahman ve rahim olan ulu Allah’ımız, tövbelerimizi kabul, dualarımızı makbul eyle!\"",
-   "praySource": "",
-   "verse": "\"Allah'ın nimetini saymaya kalksanız onu sayamazsınız. Şüphesiz Allah; çok bağışlayandır, çok merhamet edendir.\"",
-   "verseSource": "(Nahl, 16/18)"
-  },
   "2026-10-01": {
    "hadith": "“Âdemoğlu ihtiyarlayıp çöker. Fakat kendinden iki şey gençleşir: Mal üzerine hırs, ömür üzerine hırs.”",
    "hadithSource": "(Müslim, “Zekât”, 115)",
@@ -55,6 +47,14 @@
    "praySource": "(İbn Mâce, \"Tıb\", 36; İbn Hıbbân, \"Edıye\", No. 1012-1013)",
    "verse": "“Sana bu Kitab’ı, her şey için bir açıklama, Müslümanlara bir rehber, bir rahmet kaynağı ve bir müjde olarak indirdik.”",
    "verseSource": "(Nahl, 16/89)"
+  },
+  "2026-10-07": {
+   "hadith": "“Allah’ın lâneti, rüşvet verenin ve rüşvet alanın üzerinedir.”",
+   "hadithSource": "(İbn Mâce, \"Ahkâm\", 2)",
+   "pray": "\"Her türlü şeytandan, haşereden, kem nazardan Allah'ın tam kelimelerine (sonsuz iradesine ve hükmüne)sığınırım.\"",
+   "praySource": "(Buhârî, \"Ehâdîsü'l-enbiyâ\", 10)",
+   "verse": "\"Şüphesiz Allah, adaleti, iyilik yapmayı, yakınlara yardım etmeyi emreder; hayasızlığı, fenalık ve azgınlığı da yasaklar. O, düşünüp tutasınız diye size öğüt veriyor.\"",
+   "verseSource": "(Nahl, 16/90)"
   }
  }
 }
