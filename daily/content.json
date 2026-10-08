@@ -1,13 +1,5 @@
 {
  "days": {
-  "2026-10-01": {
-   "hadith": "“Âdemoğlu ihtiyarlayıp çöker. Fakat kendinden iki şey gençleşir: Mal üzerine hırs, ömür üzerine hırs.”",
-   "hadithSource": "(Müslim, “Zekât”, 115)",
-   "pray": "\"Ey yerleri ve gökleri yaratan, Rabbim ve her şeyin Rabbi olan, çekirdeği ve taneyi yaran, Tevrat’ı, İncil’i ve Fürkân’ı indiren Allah’ım! Perçeminden tuttuğun her şeyin şerrinden Sana sığınırım...\"",
-   "praySource": "(İbn Ebî Şeybe, \"Dua\", 23,No: 29304; İbn Hıbbân, \"Ed’ıye\", No: 966)",
-   "verse": "\"Kötü işler yapmak için tuzak kuranlar, Allah'ın kendilerini yere geçirmesinden veya (ansızın) bilemeyecekleri bir yerden kendilerine azap gelmesinden emin mi oldular?\"",
-   "verseSource": "(Nahl, 16/45)"
-  },
   "2026-10-02": {
    "hadith": "“Âdemoğlunun bir vadi dolusu altını olsa, kendisinin diğer bir vadisi daha olmasını ister. Onun ağzını topraktan başka bir şey doldurmaz. \nAllah (ihtirastan) tevbe eden kimsenin tevbesini kabul eder.”",
    "hadithSource": "(Müslim, “Zekât”, 117)",
@@ -55,6 +47,14 @@
    "praySource": "(Buhârî, \"Ehâdîsü'l-enbiyâ\", 10)",
    "verse": "\"Şüphesiz Allah, adaleti, iyilik yapmayı, yakınlara yardım etmeyi emreder; hayasızlığı, fenalık ve azgınlığı da yasaklar. O, düşünüp tutasınız diye size öğüt veriyor.\"",
    "verseSource": "(Nahl, 16/90)"
+  },
+  "2026-10-08": {
+   "hadith": "“Ancak iki kişiye gıpta edilir: Allah’ın kendisine verdiği malı hak yolunda harcayan kimse ile Allah’ın kendisine verdiği (ilim ve) hikmete göre karar veren ve onu başkalarına öğreten kimse.”",
+   "hadithSource": "(Buhârî, \"Zekât\", 5; “İlim”, 15))",
+   "pray": "\"İçimizdeki bencilliği, öfkeyi, kibri, gururu, nefreti, ihtirası, hasedi, fitne ve fesadı gönül dünyamızdan atmayı, \nbuna mukabil tevazuyu, diğergamlığı, sevgiyi, hayırda yarışmayı ve cömertliği bizlere lütfeyle Allah’ım!\"",
+   "praySource": "",
+   "verse": "\"Allah dileseydi, sizi tek bir ümmet yapardı. Fakat O, dilediğini saptırır, dilediğini de doğru yola iletir. Yapmakta olduğunuz şeylerden mutlaka sorguya çekileceksiniz.\"",
+   "verseSource": "(Nahl, 16/93)"
   }
  }
 }
