@@ -1,13 +1,5 @@
 {
  "days": {
-  "2026-10-02": {
-   "hadith": "“Âdemoğlunun bir vadi dolusu altını olsa, kendisinin diğer bir vadisi daha olmasını ister. Onun ağzını topraktan başka bir şey doldurmaz. \nAllah (ihtirastan) tevbe eden kimsenin tevbesini kabul eder.”",
-   "hadithSource": "(Müslim, “Zekât”, 117)",
-   "pray": "\"Güzel ve bereket dilekleriyle dolu, ama bir o kadar yetersiz olan ve dilimizden düşürmediğimiz, vazgeçemediğimiz tüm övgülerle sana çokça hamdediyoruz ey Rabbimiz!\"",
-   "praySource": "(Buhârî, \"Et'ıme\",54)",
-   "verse": "\"Size ulaşan her nimet Allah'tandır. Sonra size bir sıkıntı ve zarar dokunduğu zaman yalnız ona yalvarır yakarırsınız.\"",
-   "verseSource": "(Nahl, 16/53)"
-  },
   "2026-10-03": {
    "hadith": "“Allah katında arkadaşların en iyisi arkadaşına iyi olandır. Allah katında komşuların en iyisi ise komşusuna karşı iyi olandır.”",
    "hadithSource": "(Buhârî, Edebü'l-Müfred, 53; Tirmizî, “Birr”, 28)",
@@ -55,6 +47,14 @@
    "praySource": "",
    "verse": "\"Allah dileseydi, sizi tek bir ümmet yapardı. Fakat O, dilediğini saptırır, dilediğini de doğru yola iletir. Yapmakta olduğunuz şeylerden mutlaka sorguya çekileceksiniz.\"",
    "verseSource": "(Nahl, 16/93)"
+  },
+  "2026-10-09": {
+   "hadith": "“Anne-babası veya her ikisinden birisi yanında ihtiyarladığı hâlde, Cennet’e giremeyip Cehennem’e giden kimseye yazıklar olsun.”",
+   "hadithSource": "(Müslim, “Birr”, 9)",
+   "pray": "\"İlahi! Sen duyurmazsan ben duyamam. Sen söyletmezsen ben söyleyemem.Sen sevdirmezsen ben sevemem. Sevdir sevdiklerini,yerdir hep yerdiklerini,yar et bize erdirdiklerini.\"",
+   "praySource": "(Elmalılı Hamdi Yazır)",
+   "verse": "\"Kur'an okuduğun zaman, kovulmuş şeytandan Allah'a sığın.\"",
+   "verseSource": "(Nahl, 16/98)"
   }
  }
 }
