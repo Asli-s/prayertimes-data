@@ -1,13 +1,5 @@
 {
  "days": {
-  "2026-10-04": {
-   "hadith": "“Allah sizin dış görünüşünüze ve mallarınıza değil, kalplerinize ve amellerinize bakar.”",
-   "hadithSource": "(Müslim, \"Birr\", 33; İbn Mâce, \"Zühd\", 9 )",
-   "pray": "\"Hata, kusur ve aşırılıklarımızdan dolayı Sen bizleri yakma Allah’ım!",
-   "praySource": "",
-   "verse": "\"Allah rızık konusunda kiminizi kiminizden üstün kıldı. Üstün kılınanlar rızıklarını ellerinin altındakilere vermezler ki rızıkta hep eşit olsunlar. Şimdi Allah'ın nimetini mi inkar ediyorlar?\"",
-   "verseSource": "(Nahl, 16/71)"
-  },
   "2026-10-05": {
    "hadith": "“Allah’a ve ahiret gününe inanan kimse komşusuna eziyet etmesin…”",
    "hadithSource": "(Buhârî, “Rikak”,23; “Nikah”, 80; Müslim, “İman”, 74, 75)",
@@ -55,6 +47,14 @@
    "praySource": "(Elmalılı Hamdi Yazır)",
    "verse": "\"Allah’ın yardımı gelip fetih gerçekleştiğinde; Ve insanların akın akın Allah’ın dinine girdiğini gördüğünde; Rabbine hamdederek şanının yüceliğini dile getir ve O’ndan af dile; şüphesiz O, tövbeleri çok kabul edendir.\"",
    "verseSource": "(Nasr, 110/1-3)"
+  },
+  "2026-10-11": {
+   "hadith": "“Ateş odunu yedigi (yaktığı) gibi, hased de iyilikleri yer (yok eder). Su, ateşi söndürdugü gibi sadaka da kötülükleri söndürür (yok eder)... ”",
+   "hadithSource": "(İbn Mâce, \"Zühd\",22)",
+   "pray": "\"Kimi yüzlerin kara, kimi yüzlerin ak olacağı o günde, mahcup yüzlerimizi karartma Allah’ım!\"",
+   "praySource": "",
+   "verse": "\"Biz insanın önceden yapıp ettiklerine bakacağı, inkârcının da, \"Keşke toprak olsaydım!\" diyerek dövüneceği gün gerçekleşecek olan yakın bir azaba karşı sizi uyardık.\"",
+   "verseSource": "(Nebe, 78/40)"
   }
  }
 }
