@@ -1,13 +1,5 @@
 {
  "days": {
-  "2026-10-05": {
-   "hadith": "“Allah’a ve ahiret gününe inanan kimse komşusuna eziyet etmesin…”",
-   "hadithSource": "(Buhârî, “Rikak”,23; “Nikah”, 80; Müslim, “İman”, 74, 75)",
-   "pray": "\"Her türlü kavlî, bedenî ve mâlî ibâdetler Allâh'a mahsustur. Ey Peygamber, selâm ve Allâh'ın rahmetiyle bereketleri senin üzerine olsun ve selâm bizlere ve Allâh'ın sâlih kullarına olsun. \nBen şehâdet ederim (yakînen bilirim) ki, Allâh'tan başka hiçbir i",
-   "praySource": "(Ebû Dâvûd, Salât, 182)",
-   "verse": "\"Allah sizi, analarınızın karnından siz hiçbir şey bilmez durumda iken çıkardı. Şükredesiniz diye size kulaklar, gözler ve kalpler verdi.\"",
-   "verseSource": "(Nahl, 16/78)"
-  },
   "2026-10-06": {
    "hadith": "“Allah’ın adıyla… O’nun adıyla (hareket edildiğinde) yerde ve gökte hiçbir şeyin zararı dokunmaz. O, hakkıyla işitendir, hakkıyla bilendir.”",
    "hadithSource": "(Tirmizî, “De'avât”, 13)",
@@ -55,6 +47,14 @@
    "praySource": "",
    "verse": "\"Biz insanın önceden yapıp ettiklerine bakacağı, inkârcının da, \"Keşke toprak olsaydım!\" diyerek dövüneceği gün gerçekleşecek olan yakın bir azaba karşı sizi uyardık.\"",
    "verseSource": "(Nebe, 78/40)"
+  },
+  "2026-10-12": {
+   "hadith": "“Bakmakla yükümlü olduğu kimseleri ihmal etmesi, kişiye günah olarak yeter.”",
+   "hadithSource": "(Ebû Dâvûd, \"Zekât\", 45)",
+   "pray": "\"Kur’an’ı; kalplerimizin gıdası, ruhlarımızın şifası, kabirlerimizin ziyası, maddî ve manevî dertlerimizin devası eyle Allah’ım!",
+   "praySource": "",
+   "verse": "“Göklerdeki her şey, yerdeki her şey Allah’ındır. (Sonunda) kötülük edenleri yaptıklarıyla cezalandırmak, iyilik edenleri de daha güzeliyle mükâfatlandırmak için ‘Allah, kim ne yaparsa kaydeder.”",
+   "verseSource": "(Necm, 53/31)"
   }
  }
 }
