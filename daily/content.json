@@ -1,13 +1,5 @@
 {
  "days": {
-  "2026-10-06": {
-   "hadith": "“Allah’ın adıyla… O’nun adıyla (hareket edildiğinde) yerde ve gökte hiçbir şeyin zararı dokunmaz. O, hakkıyla işitendir, hakkıyla bilendir.”",
-   "hadithSource": "(Tirmizî, “De'avât”, 13)",
-   "pray": "\"Her türlü şeytan ve zehirli hayvandan ve bütün kem gözlerden Allah’ın eksiksiz kelimeleri ile O’nun korumasına sığınıyorum.\"",
-   "praySource": "(İbn Mâce, \"Tıb\", 36; İbn Hıbbân, \"Edıye\", No. 1012-1013)",
-   "verse": "“Sana bu Kitab’ı, her şey için bir açıklama, Müslümanlara bir rehber, bir rahmet kaynağı ve bir müjde olarak indirdik.”",
-   "verseSource": "(Nahl, 16/89)"
-  },
   "2026-10-07": {
    "hadith": "“Allah’ın lâneti, rüşvet verenin ve rüşvet alanın üzerinedir.”",
    "hadithSource": "(İbn Mâce, \"Ahkâm\", 2)",
@@ -55,6 +47,14 @@
    "praySource": "",
    "verse": "“Göklerdeki her şey, yerdeki her şey Allah’ındır. (Sonunda) kötülük edenleri yaptıklarıyla cezalandırmak, iyilik edenleri de daha güzeliyle mükâfatlandırmak için ‘Allah, kim ne yaparsa kaydeder.”",
    "verseSource": "(Necm, 53/31)"
+  },
+  "2026-10-13": {
+   "hadith": "“Başkasına ait bir malı alan, onu sahibine geri verinceye kadar ondan sorumludur.”",
+   "hadithSource": "(Ebû Dâvûd, \"Büyû’ (İcâre)\", 88; Tirmizî, \"Büyû’ \", 39)",
+   "pray": "\"Mahşer gününde Efendimizin \"Hamd Sancağı\"altında toplanmayı, Cennet-i Ala’da O’na komşu olmayı cümlemize nasip eyle Allah’ım!\"",
+   "praySource": "",
+   "verse": "\"Hiçbir günahkâr, başkasının günah yükünü yüklenmez.\"",
+   "verseSource": "(Necm, 53/38)"
   }
  }
 }
