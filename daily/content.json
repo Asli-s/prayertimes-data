@@ -1,13 +1,5 @@
 {
  "days": {
-  "2026-10-07": {
-   "hadith": "“Allah’ın lâneti, rüşvet verenin ve rüşvet alanın üzerinedir.”",
-   "hadithSource": "(İbn Mâce, \"Ahkâm\", 2)",
-   "pray": "\"Her türlü şeytandan, haşereden, kem nazardan Allah'ın tam kelimelerine (sonsuz iradesine ve hükmüne)sığınırım.\"",
-   "praySource": "(Buhârî, \"Ehâdîsü'l-enbiyâ\", 10)",
-   "verse": "\"Şüphesiz Allah, adaleti, iyilik yapmayı, yakınlara yardım etmeyi emreder; hayasızlığı, fenalık ve azgınlığı da yasaklar. O, düşünüp tutasınız diye size öğüt veriyor.\"",
-   "verseSource": "(Nahl, 16/90)"
-  },
   "2026-10-08": {
    "hadith": "“Ancak iki kişiye gıpta edilir: Allah’ın kendisine verdiği malı hak yolunda harcayan kimse ile Allah’ın kendisine verdiği (ilim ve) hikmete göre karar veren ve onu başkalarına öğreten kimse.”",
    "hadithSource": "(Buhârî, \"Zekât\", 5; “İlim”, 15))",
@@ -55,6 +47,14 @@
    "praySource": "",
    "verse": "\"Hiçbir günahkâr, başkasının günah yükünü yüklenmez.\"",
    "verseSource": "(Necm, 53/38)"
+  },
+  "2026-10-14": {
+   "hadith": "“Beş şey gelmeden önce beş şeyin kıymetini bilin: Ölüm gelmeden önce hayatın,hastalık gelmeden önce sağlığın, meşguliyet gelmeden önce boş vaktin, ihtiyarlık gelmeden önce \ngençliğin, fakirlik gelmeden önce zenginliğin.”",
+   "hadithSource": "(Buharî, “Rikak”, 3; Tirmizî, “Zühd”, 25)",
+   "pray": "\"Merhameti sonsuz biricik Rabb'imiz! Sıkıntılarımızı izale buyur ve bizi içinde bulunduğumuz gamdan, kederden kurtar…\"",
+   "praySource": "(İbn Mâce, \"Dua\", 2)",
+   "verse": "“İnsan için ancak çalıştığı vardır. Şüphesiz onun çalışması ileride görülecektir. Sonra çalışmasının karşılığı kendisine tastamam verilecektir.”",
+   "verseSource": "(Necm, 53/39-41)"
   }
  }
 }
