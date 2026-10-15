@@ -1,13 +1,5 @@
 {
  "days": {
-  "2026-10-09": {
-   "hadith": "“Anne-babası veya her ikisinden birisi yanında ihtiyarladığı hâlde, Cennet’e giremeyip Cehennem’e giden kimseye yazıklar olsun.”",
-   "hadithSource": "(Müslim, “Birr”, 9)",
-   "pray": "\"İlahi! Sen duyurmazsan ben duyamam. Sen söyletmezsen ben söyleyemem.Sen sevdirmezsen ben sevemem. Sevdir sevdiklerini,yerdir hep yerdiklerini,yar et bize erdirdiklerini.\"",
-   "praySource": "(Elmalılı Hamdi Yazır)",
-   "verse": "\"Kur'an okuduğun zaman, kovulmuş şeytandan Allah'a sığın.\"",
-   "verseSource": "(Nahl, 16/98)"
-  },
   "2026-10-10": {
    "hadith": "“Arabın Arap olmayana, Arap olmayanın da Arap üzerinde bir üstünlüğü yoktur. Üstünlük ancak takvadadır.”",
    "hadithSource": "(Ahmed b.Hanbel, Müsned, V,411)",
@@ -55,6 +47,14 @@
    "praySource": "(İbn Mâce, \"Dua\", 2)",
    "verse": "“Yetimlerin mallarını haksız yere yiyenler, ancak ve ancak karınlarını doldurasıya ateş yemiş olurlar ve zaten onlar çılgın bir ateşe (cehenneme) gireceklerdir.”",
    "verseSource": "(Nisâ, 4/10)"
+  },
+  "2026-10-16": {
+   "hadith": "“Bir insanın bakmakla yükümlü olduğu aile fertlerini ihmal etmesi, günah olarak kendisine yeter.\"",
+   "hadithSource": "(Ebu Dâvûd, \" Zekât\",45)",
+   "pray": "\"Nazargahın olan kalplerimizin, kendi yaktığımız ateşlerde  kararmış birer taş parçası haline gelmesine izin verme Allah’ım!\"",
+   "praySource": "",
+   "verse": "\"Allah'tan bağışlama dile. Şüphesiz Allah, çok bağışlayandır, çok merhamet edendir.\"",
+   "verseSource": "(Nisâ, 4/106)"
   }
  }
 }
