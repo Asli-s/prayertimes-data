@@ -1,13 +1,5 @@
 {
  "days": {
-  "2026-10-10": {
-   "hadith": "“Arabın Arap olmayana, Arap olmayanın da Arap üzerinde bir üstünlüğü yoktur. Üstünlük ancak takvadadır.”",
-   "hadithSource": "(Ahmed b.Hanbel, Müsned, V,411)",
-   "pray": "\"İlahî, İnayetine sığındım,kapına geldim,kulluk edmedim affına geldim. Şaşırtma beni doğruyu söylet,neş’eni duyur hakikati öğret.\"",
-   "praySource": "(Elmalılı Hamdi Yazır)",
-   "verse": "\"Allah’ın yardımı gelip fetih gerçekleştiğinde; Ve insanların akın akın Allah’ın dinine girdiğini gördüğünde; Rabbine hamdederek şanının yüceliğini dile getir ve O’ndan af dile; şüphesiz O, tövbeleri çok kabul edendir.\"",
-   "verseSource": "(Nasr, 110/1-3)"
-  },
   "2026-10-11": {
    "hadith": "“Ateş odunu yedigi (yaktığı) gibi, hased de iyilikleri yer (yok eder). Su, ateşi söndürdugü gibi sadaka da kötülükleri söndürür (yok eder)... ”",
    "hadithSource": "(İbn Mâce, \"Zühd\",22)",
@@ -55,6 +47,14 @@
    "praySource": "",
    "verse": "\"Allah'tan bağışlama dile. Şüphesiz Allah, çok bağışlayandır, çok merhamet edendir.\"",
    "verseSource": "(Nisâ, 4/106)"
+  },
+  "2026-10-17": {
+   "hadith": "“Bir kimse (Allah yolunda) uzun sefere çıkar. Saçı başı dağınık, toza toprağa bulanmış vaziyette Yâ Rabbi! Yâ Rabbi! diyerek ellerini gökyüzüne açar. Hâlbuki onun yediği haram, \niçtiği haram, giydiği haram, gıdası haramdır. Böyle birinin duası nasıl kabul",
+   "hadithSource": "(Müslim, “Zekât” 65)",
+   "pray": "\"Nefislerimizin bitmez tükenmez kötü arzu ve isteklerinden,  heva ve heveslerimizin peşinde koşmaktan, \nşeytanın vesvese ve şerrinden; bizleri bildiğimiz bilmediğimiz bütün yarattıklarının şerrinden emin ve muhafaza eyle Allah’ım!\"",
+   "praySource": "",
+   "verse": "“Kim, kendisine doğru yol apaçık belli olduktan sonra Peygamber’e karşı çıkar, mü’minlerin yolundan başkasına uyarsa, Biz, onu döndüğü yola çevirir ve (neticede) cehenneme sokarız. Orası varılacak ne kötü bir yerdir.”",
+   "verseSource": "(Nisa, 4/115)"
   }
  }
 }
