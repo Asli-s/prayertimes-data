@@ -1,13 +1,5 @@
 {
  "days": {
-  "2026-10-12": {
-   "hadith": "“Bakmakla yükümlü olduğu kimseleri ihmal etmesi, kişiye günah olarak yeter.”",
-   "hadithSource": "(Ebû Dâvûd, \"Zekât\", 45)",
-   "pray": "\"Kur’an’ı; kalplerimizin gıdası, ruhlarımızın şifası, kabirlerimizin ziyası, maddî ve manevî dertlerimizin devası eyle Allah’ım!",
-   "praySource": "",
-   "verse": "“Göklerdeki her şey, yerdeki her şey Allah’ındır. (Sonunda) kötülük edenleri yaptıklarıyla cezalandırmak, iyilik edenleri de daha güzeliyle mükâfatlandırmak için ‘Allah, kim ne yaparsa kaydeder.”",
-   "verseSource": "(Necm, 53/31)"
-  },
   "2026-10-13": {
    "hadith": "“Başkasına ait bir malı alan, onu sahibine geri verinceye kadar ondan sorumludur.”",
    "hadithSource": "(Ebû Dâvûd, \"Büyû’ (İcâre)\", 88; Tirmizî, \"Büyû’ \", 39)",
@@ -55,6 +47,14 @@
    "praySource": "(Tirmizî, \"De'avât\", 107)",
    "verse": "\"Mü'min olarak, erkek veya kadın, her kim salih ameller işlerse, işte onlar cennete girerler ve zerre kadar haksızlığa uğratılmazlar.\"",
    "verseSource": "(Nisâ, 4/124)"
+  },
+  "2026-10-19": {
+   "hadith": "“Bir müslümana, üç günden fazla (din) kardeşi ile dargın durması helal olmaz.”",
+   "hadithSource": "(Müslim, “Birr”, 26)",
+   "pray": "\"Rabbim senin isminle yanımı yatağa koydum. Ve yine senin isminle yanımı yataktan kaldıracağım. Eğer uykuda canımı alacaksan, bana merhamet edip bağışla! \nŞayet hayatta bırakacaksan, salih kullarını koruduğun şeylerle beni de fenalıklardan koru!\"",
+   "praySource": "(Buhârî, De’avât 13; Müslim, Zikir, 64, 98)",
+   "verse": "“Ey iman edenler! Kendiniz, ana babanız ve en yakınlarınızın aleyhine de olsa Allah için şahitlik yaparak adaleti titizlikle ayakta tutan kimseler olun…\"",
+   "verseSource": "(Nisa, 4/135)"
   }
  }
 }
