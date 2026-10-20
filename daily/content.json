@@ -1,13 +1,5 @@
 {
  "days": {
-  "2026-10-14": {
-   "hadith": "“Beş şey gelmeden önce beş şeyin kıymetini bilin: Ölüm gelmeden önce hayatın,hastalık gelmeden önce sağlığın, meşguliyet gelmeden önce boş vaktin, ihtiyarlık gelmeden önce \ngençliğin, fakirlik gelmeden önce zenginliğin.”",
-   "hadithSource": "(Buharî, “Rikak”, 3; Tirmizî, “Zühd”, 25)",
-   "pray": "\"Merhameti sonsuz biricik Rabb'imiz! Sıkıntılarımızı izale buyur ve bizi içinde bulunduğumuz gamdan, kederden kurtar…\"",
-   "praySource": "(İbn Mâce, \"Dua\", 2)",
-   "verse": "“İnsan için ancak çalıştığı vardır. Şüphesiz onun çalışması ileride görülecektir. Sonra çalışmasının karşılığı kendisine tastamam verilecektir.”",
-   "verseSource": "(Necm, 53/39-41)"
-  },
   "2026-10-15": {
    "hadith": "“Bir evlat babasını köle olarak bulsa, onu satın alıp hürriyete kavuştursa, yine de onun hakkını tam olarak ödeyemez”",
    "hadithSource": "(Müslim, “Itk”, 25)",
@@ -55,6 +47,14 @@
    "praySource": "(İsrâ, 17/24)",
    "verse": "\"Ey iman edenler! Mallarınızı aranızda batıl yollarla yemeyin. Ancak karşılıklı rıza ile yapılan ticaretle olursa başka. Kendinizi helak etmeyin. Şüphesiz Allah size karşı çok merhametlidir.\"",
    "verseSource": "(Nisâ, 4/29)"
+  },
+  "2026-10-21": {
+   "hadith": "“Birbirlerini sevmekte, birbirlerine merhamet etmekte ve birbirlerine şefkat göstermekte mü’minlerin durumu, insan bedenine benzer. \nOndan bir uzuv rahatsızlandığında, bedenin diğer uzuvları uykusuzluk, ağrı ve ateşle ona ortak olurlar.\"",
+   "hadithSource": "(Buharî, \"Edeb\", 27)",
+   "pray": "\"Rabbim! Bana yardım et, aleyhime olan şeylere yardım etme. Bana zafer ver, aleyhime zafer verme. Lehime tertip kur, aleyhime tertip kurma. \nBana hidayet et ve hidayeti bana kolaylaştır. Bana zulmeden kimseye karşı yardım et...\"",
+   "praySource": "(Tirmizî, \"De’avât\", 114; İbn Hıbbân, \"Ed’ıye\", No: 947; İbn Ebî Şeybe, \"Dua\", 42, No: 29381)",
+   "verse": "“Eğer karı-kocanın arasının açılmasından endişe ederseniz, erkeğin ailesinden bir hakem, kadının ailesinden bir hakem gönderin. İki taraf (arayı) düzeltmek isterlerse, Allah da onları uzlaştırır. Şüphesiz, Allah hakkıyla bilendir, \nhakkıyla haberdardır.”",
+   "verseSource": "(Nisa, 4/35)"
   }
  }
 }
