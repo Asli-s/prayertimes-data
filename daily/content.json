@@ -1,13 +1,5 @@
 {
  "days": {
-  "2026-10-13": {
-   "hadith": "“Başkasına ait bir malı alan, onu sahibine geri verinceye kadar ondan sorumludur.”",
-   "hadithSource": "(Ebû Dâvûd, \"Büyû’ (İcâre)\", 88; Tirmizî, \"Büyû’ \", 39)",
-   "pray": "\"Mahşer gününde Efendimizin \"Hamd Sancağı\"altında toplanmayı, Cennet-i Ala’da O’na komşu olmayı cümlemize nasip eyle Allah’ım!\"",
-   "praySource": "",
-   "verse": "\"Hiçbir günahkâr, başkasının günah yükünü yüklenmez.\"",
-   "verseSource": "(Necm, 53/38)"
-  },
   "2026-10-14": {
    "hadith": "“Beş şey gelmeden önce beş şeyin kıymetini bilin: Ölüm gelmeden önce hayatın,hastalık gelmeden önce sağlığın, meşguliyet gelmeden önce boş vaktin, ihtiyarlık gelmeden önce \ngençliğin, fakirlik gelmeden önce zenginliğin.”",
    "hadithSource": "(Buharî, “Rikak”, 3; Tirmizî, “Zühd”, 25)",
@@ -55,6 +47,14 @@
    "praySource": "(Buhârî, De’avât 13; Müslim, Zikir, 64, 98)",
    "verse": "“Ey iman edenler! Kendiniz, ana babanız ve en yakınlarınızın aleyhine de olsa Allah için şahitlik yaparak adaleti titizlikle ayakta tutan kimseler olun…\"",
    "verseSource": "(Nisa, 4/135)"
+  },
+  "2026-10-20": {
+   "hadith": "“Birbirinize hiddetlenmeyin, düşmanca davranmayın, birbirinize hased etmeyin, kiskanmaym, birbirinize arka çevirmeyin: Ey Allah’ın kulları, kardeş olun. \"",
+   "hadithSource": "(Buhârî, \"Edeb\",57)",
+   "pray": "\"Rabbim! Annem babam, küçükken beni nasıl  terbiye edip yetiştirmişlerse, şimdi sen de onlara acı.\"",
+   "praySource": "(İsrâ, 17/24)",
+   "verse": "\"Ey iman edenler! Mallarınızı aranızda batıl yollarla yemeyin. Ancak karşılıklı rıza ile yapılan ticaretle olursa başka. Kendinizi helak etmeyin. Şüphesiz Allah size karşı çok merhametlidir.\"",
+   "verseSource": "(Nisâ, 4/29)"
   }
  }
 }
