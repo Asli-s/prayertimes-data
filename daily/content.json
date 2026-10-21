@@ -1,13 +1,5 @@
 {
  "days": {
-  "2026-10-15": {
-   "hadith": "“Bir evlat babasını köle olarak bulsa, onu satın alıp hürriyete kavuştursa, yine de onun hakkını tam olarak ödeyemez”",
-   "hadithSource": "(Müslim, “Itk”, 25)",
-   "pray": "\"...Merhameti sonsuz biricik Rabb'imiz! En yakın bir zamanda biz aciz kullarına nezdinden bir ferec ve mahrec (çıkış yolu ve ferahlık) nasip eyle..\"",
-   "praySource": "(İbn Mâce, \"Dua\", 2)",
-   "verse": "“Yetimlerin mallarını haksız yere yiyenler, ancak ve ancak karınlarını doldurasıya ateş yemiş olurlar ve zaten onlar çılgın bir ateşe (cehenneme) gireceklerdir.”",
-   "verseSource": "(Nisâ, 4/10)"
-  },
   "2026-10-16": {
    "hadith": "“Bir insanın bakmakla yükümlü olduğu aile fertlerini ihmal etmesi, günah olarak kendisine yeter.\"",
    "hadithSource": "(Ebu Dâvûd, \" Zekât\",45)",
@@ -55,6 +47,14 @@
    "praySource": "(Tirmizî, \"De’avât\", 114; İbn Hıbbân, \"Ed’ıye\", No: 947; İbn Ebî Şeybe, \"Dua\", 42, No: 29381)",
    "verse": "“Eğer karı-kocanın arasının açılmasından endişe ederseniz, erkeğin ailesinden bir hakem, kadının ailesinden bir hakem gönderin. İki taraf (arayı) düzeltmek isterlerse, Allah da onları uzlaştırır. Şüphesiz, Allah hakkıyla bilendir, \nhakkıyla haberdardır.”",
    "verseSource": "(Nisa, 4/35)"
+  },
+  "2026-10-22": {
+   "hadith": "“Birinizin sırtında odun destesi taşıması, versin veya vermesin, insanlara gidip el açmasından daha iyidir”",
+   "hadithSource": "(Buharî, “Büyu”, 26)",
+   "pray": "\"Rabbim! Beni yalnız başıma bırakma, Sen varislerin en hayırlısısın.\"",
+   "praySource": "(Enbiyâ, 21/89)",
+   "verse": "“Allah’a ibadet edin ve O’na hiçbir şeyi ortak koşmayın. Ana-babaya, akrabaya, yetimlere, yoksullara, yakın komşuya, uzak komşuya, yanınızdaki arkadaşa, yolcuya, elinizin altındakilere iyilik edin. \nŞüphesiz Allah, kibirlenen ve övünen kimseleri sevmez.”",
+   "verseSource": "(Nisa, 4/36)"
   }
  }
 }
