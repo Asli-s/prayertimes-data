@@ -1,13 +1,5 @@
 {
  "days": {
-  "2026-10-17": {
-   "hadith": "“Bir kimse (Allah yolunda) uzun sefere çıkar. Saçı başı dağınık, toza toprağa bulanmış vaziyette Yâ Rabbi! Yâ Rabbi! diyerek ellerini gökyüzüne açar. Hâlbuki onun yediği haram, \niçtiği haram, giydiği haram, gıdası haramdır. Böyle birinin duası nasıl kabul",
-   "hadithSource": "(Müslim, “Zekât” 65)",
-   "pray": "\"Nefislerimizin bitmez tükenmez kötü arzu ve isteklerinden,  heva ve heveslerimizin peşinde koşmaktan, \nşeytanın vesvese ve şerrinden; bizleri bildiğimiz bilmediğimiz bütün yarattıklarının şerrinden emin ve muhafaza eyle Allah’ım!\"",
-   "praySource": "",
-   "verse": "“Kim, kendisine doğru yol apaçık belli olduktan sonra Peygamber’e karşı çıkar, mü’minlerin yolundan başkasına uyarsa, Biz, onu döndüğü yola çevirir ve (neticede) cehenneme sokarız. Orası varılacak ne kötü bir yerdir.”",
-   "verseSource": "(Nisa, 4/115)"
-  },
   "2026-10-18": {
    "hadith": "“Bir kimsenin yaptığı iyiliğe karşı teşekkür etmesi ahlâkî bir görevdir. İyilikte bulunanı övmek ve ona dua etmekte bir teşekkürdür. İnsanlara teşekkür etmeyen Allah’a da şükretmemiş olur.”",
    "hadithSource": "(Ebu Dâvûd, \"Edeb\", 12)",
@@ -55,6 +47,14 @@
    "praySource": "(Buhârî, \"De’avât\", 60; Müslim, \"Dua\", 70)",
    "verse": "“Şüphesiz Allah (hiç kimseye) zerre kadar zulüm etmez. (Yapılan) çok küçük bir iyilik de olsa onun sevabını kat kat arttırır ve kendi katından büyük bir mükâfat verir.”",
    "verseSource": "(Nisa, 4/40)"
+  },
+  "2026-10-24": {
+   "hadith": "“Cennet size ayakkabınızın bağından daha yakındır; csehennem de öyledir.”",
+   "hadithSource": "(Buhârî, \"Rikak\", 29 )",
+   "pray": "\"Rabbim! Gireceğim yere doğrulukla girmemi sağla, çıkacağım yerden de doğrulukla çıkmamı nasip et ve benim için kendi katından yardım edici bir kuvvet ver.\"",
+   "praySource": "(İsrâ, 17/80)",
+   "verse": "\"Allah size, emanetleri mutlaka ehline vermenizi ve insanlar arasında hükmettiğiniz zaman adaletle hükmetmenizi emrediyor. Doğrusu Allah, bununla size ne güzel öğüt veriyor! Şüphesiz ki Allah hakkıyla işitendir, hakkıyla görendir.\"",
+   "verseSource": "(Nisâ, 4/58)"
   }
  }
 }
