@@ -1,13 +1,5 @@
 {
  "days": {
-  "2026-10-18": {
-   "hadith": "“Bir kimsenin yaptığı iyiliğe karşı teşekkür etmesi ahlâkî bir görevdir. İyilikte bulunanı övmek ve ona dua etmekte bir teşekkürdür. İnsanlara teşekkür etmeyen Allah’a da şükretmemiş olur.”",
-   "hadithSource": "(Ebu Dâvûd, \"Edeb\", 12)",
-   "pray": "\"O Allah'a hamd olsun ki, benden bir kuvvet olmaksızın bu elbiseyi bana giydirdi ve (bunu) bana rızık olarak verdi.\"",
-   "praySource": "(Tirmizî, \"De'avât\", 107)",
-   "verse": "\"Mü'min olarak, erkek veya kadın, her kim salih ameller işlerse, işte onlar cennete girerler ve zerre kadar haksızlığa uğratılmazlar.\"",
-   "verseSource": "(Nisâ, 4/124)"
-  },
   "2026-10-19": {
    "hadith": "“Bir müslümana, üç günden fazla (din) kardeşi ile dargın durması helal olmaz.”",
    "hadithSource": "(Müslim, “Birr”, 26)",
@@ -55,6 +47,14 @@
    "praySource": "(İsrâ, 17/80)",
    "verse": "\"Allah size, emanetleri mutlaka ehline vermenizi ve insanlar arasında hükmettiğiniz zaman adaletle hükmetmenizi emrediyor. Doğrusu Allah, bununla size ne güzel öğüt veriyor! Şüphesiz ki Allah hakkıyla işitendir, hakkıyla görendir.\"",
    "verseSource": "(Nisâ, 4/58)"
+  },
+  "2026-10-25": {
+   "hadith": "“Çalışana ücretini, teri kurumadan verin.”",
+   "hadithSource": "(İbn Mâce, \"Rühûn\", 4)",
+   "pray": "\"Rabbim! Şeytanların kışkırtmalarından sana sığınırım! Onların yanımda bulunmalarından da sana sığınırım.\"",
+   "praySource": "(Mü’minûn, 23/97–98)",
+   "verse": "“Kim Allah’a ve Peygamber’e itaat ederse, işte onlar, Allah’ın kendilerine nimet verdiği peygamberlerle, (özü sözü bir olan) sıddîklarla, şehitlerle ve iyi işler yapanlarla birliktedirler. Ne güzel arkadaştır onlar.”",
+   "verseSource": "(Nisa, 4/69)"
   }
  }
 }
