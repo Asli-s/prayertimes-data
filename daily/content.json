@@ -1,13 +1,5 @@
 {
  "days": {
-  "2026-10-21": {
-   "hadith": "“Birbirlerini sevmekte, birbirlerine merhamet etmekte ve birbirlerine şefkat göstermekte mü’minlerin durumu, insan bedenine benzer. \nOndan bir uzuv rahatsızlandığında, bedenin diğer uzuvları uykusuzluk, ağrı ve ateşle ona ortak olurlar.\"",
-   "hadithSource": "(Buharî, \"Edeb\", 27)",
-   "pray": "\"Rabbim! Bana yardım et, aleyhime olan şeylere yardım etme. Bana zafer ver, aleyhime zafer verme. Lehime tertip kur, aleyhime tertip kurma. \nBana hidayet et ve hidayeti bana kolaylaştır. Bana zulmeden kimseye karşı yardım et...\"",
-   "praySource": "(Tirmizî, \"De’avât\", 114; İbn Hıbbân, \"Ed’ıye\", No: 947; İbn Ebî Şeybe, \"Dua\", 42, No: 29381)",
-   "verse": "“Eğer karı-kocanın arasının açılmasından endişe ederseniz, erkeğin ailesinden bir hakem, kadının ailesinden bir hakem gönderin. İki taraf (arayı) düzeltmek isterlerse, Allah da onları uzlaştırır. Şüphesiz, Allah hakkıyla bilendir, \nhakkıyla haberdardır.”",
-   "verseSource": "(Nisa, 4/35)"
-  },
   "2026-10-22": {
    "hadith": "“Birinizin sırtında odun destesi taşıması, versin veya vermesin, insanlara gidip el açmasından daha iyidir”",
    "hadithSource": "(Buharî, “Büyu”, 26)",
@@ -55,6 +47,14 @@
    "praySource": "",
    "verse": "“Onlar hâlâ Kur’an’ı düşünüp anlamaya çalışmıyorlar mı? Eğer o, Allah’tan başkası tarafından (indirilmiş) olsaydı, mutlaka onda birçok çelişki bulurlardı.”",
    "verseSource": "(Nisa, 4/82)"
+  },
+  "2026-10-28": {
+   "hadith": "“En hayırlınız, ahlâkça en güzel olanlarınızdır.”",
+   "hadithSource": "(Müslim, “Fedail”, 68)",
+   "pray": "\"Rabbimiz! Biz, ‘Rabbinize iman edin’ diye imana çağıran bir davetçi işittik, hemen iman ettik. Rabbimiz! Günahlarımızı bağışla. Kötülüklerimizi ört. Canımızı iyilerle beraber al.\"",
+   "praySource": "(Âl-i İmrân, 3/193)",
+   "verse": "“Size bir selam verildiği zaman, ondan daha güzeliyle veya aynı selamla karşılık verin. Şüphesiz Allah, her şeyin hesabını gereği gibi yapandır.”",
+   "verseSource": "(Nisa, 4/86)"
   }
  }
 }
