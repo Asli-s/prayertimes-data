@@ -2,9 +2,13 @@ name: Daily content
 
 on:
   schedule:
-    # 00:10 Türkiye time, and again two hours later in case GitHub skipped or delayed the first run
+    # 00:10 Türkiye time, then retries through the Türkiye day in case GitHub skipped a run or Diyanet was down;
+    # the API only serves today's content, so a day missed by all of them is lost
     - cron: "10 21 * * *"
     - cron: "10 23 * * *"
+    - cron: "10 5 * * *"
+    - cron: "10 11 * * *"
+    - cron: "10 17 * * *"
   workflow_dispatch:
 
 permissions:
