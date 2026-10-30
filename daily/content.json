@@ -1,13 +1,5 @@
 {
  "days": {
-  "2026-10-24": {
-   "hadith": "“Cennet size ayakkabınızın bağından daha yakındır; csehennem de öyledir.”",
-   "hadithSource": "(Buhârî, \"Rikak\", 29 )",
-   "pray": "\"Rabbim! Gireceğim yere doğrulukla girmemi sağla, çıkacağım yerden de doğrulukla çıkmamı nasip et ve benim için kendi katından yardım edici bir kuvvet ver.\"",
-   "praySource": "(İsrâ, 17/80)",
-   "verse": "\"Allah size, emanetleri mutlaka ehline vermenizi ve insanlar arasında hükmettiğiniz zaman adaletle hükmetmenizi emrediyor. Doğrusu Allah, bununla size ne güzel öğüt veriyor! Şüphesiz ki Allah hakkıyla işitendir, hakkıyla görendir.\"",
-   "verseSource": "(Nisâ, 4/58)"
-  },
   "2026-10-25": {
    "hadith": "“Çalışana ücretini, teri kurumadan verin.”",
    "hadithSource": "(İbn Mâce, \"Rühûn\", 4)",
@@ -47,6 +39,14 @@
    "praySource": "(Âl-i İmrân, 3/8)",
    "verse": "\"Münafıklar, Allah'ı aldatmaya çalışırlar. Allah da onların bu çabalarını başlarına geçirir. Onlar, namaza kalktıkları zaman tembel tembel kalkarlar, insanlara gösteriş yaparlar ve Allah'ı pek az anarlar.\"",
    "verseSource": "(Nisâ, 4/142)"
+  },
+  "2026-10-31": {
+   "hadith": "“Günahlarından samimi olarak tövbe eden kişi, hiç günah işlememiş gibidir.”",
+   "hadithSource": "(İbn-i Mâce,\" Zühd\", 30)",
+   "pray": "\"Rabbimiz! Bizi sana teslim olmuş kimseler kıl. Soyumuzdan da sana teslim olmuş bir ümmet kıl. Bize ibadet yerlerini ve ilkelerini göster. \nTövbemizi kabul et. Çünkü sen, tövbeleri çok kabul edensin, çok merhametli olansın.\"",
+   "praySource": "(Bakara, 2/128)",
+   "verse": "\" Allah'a ve ahiret gününe inanmadıkları halde mallarını, insanlara gösteriş için sarfedenler de (ahirette azaba dûçâr olurlar). Şeytan bir kimseye arkadaş olursa, ne kötü bir arkadaştır o! \"",
+   "verseSource": "(Nisâ, 4/38)"
   }
  }
 }
