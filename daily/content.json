@@ -1,13 +1,5 @@
 {
  "days": {
-  "2026-10-28": {
-   "hadith": "“En hayırlınız, ahlâkça en güzel olanlarınızdır.”",
-   "hadithSource": "(Müslim, “Fedail”, 68)",
-   "pray": "\"Rabbimiz! Biz, ‘Rabbinize iman edin’ diye imana çağıran bir davetçi işittik, hemen iman ettik. Rabbimiz! Günahlarımızı bağışla. Kötülüklerimizi ört. Canımızı iyilerle beraber al.\"",
-   "praySource": "(Âl-i İmrân, 3/193)",
-   "verse": "“Size bir selam verildiği zaman, ondan daha güzeliyle veya aynı selamla karşılık verin. Şüphesiz Allah, her şeyin hesabını gereği gibi yapandır.”",
-   "verseSource": "(Nisa, 4/86)"
-  },
   "2026-10-30": {
    "hadith": "“Görmediği bir şeyi iki gözüyle görmüş gibi göstermek, iftiraların en büyüklerindendir.”",
    "hadithSource": "(Buhârî, “Tabîr”, 45)",
@@ -47,6 +39,14 @@
    "praySource": "(Âl-i İmrân, 3/194)",
    "verse": "\"Ey iman edenler! Şeytanın adımlarına uymayın. Kim şeytana ayak uydurursa bilsin ki, o edepsizliği ve kötülüğü emreder…\"",
    "verseSource": "(Nûr, 24/21)"
+  },
+  "2026-11-04": {
+   "hadith": "“Hiçbir kişi yoktur ki bir serçeyi yahut ondan daha büyük bir canlıyı haksız yere öldürsün de Yüce Allah ona bunun hesabını sormasın!”",
+   "hadithSource": "(Nesâî, \"Sayd ve zebâih\", 34)",
+   "pray": "\"Rabbimiz! Sen kimi cehennem ateşine sokarsan onu rezil etmişsindir. Zalimlerin hiç yardımcıları yoktur.\"",
+   "praySource": "(Âl-i İmrân, 3/192)",
+   "verse": "\"İffetli ve (haklarında uydurulan kötülüklerden) habersiz mü'min kadınlara zina isnat edenler, dünyada ve âhirette lânetlenmişlerdir, onlara büyük bir ceza vardır.\"",
+   "verseSource": "(Nûr, 24/23)"
   }
  }
 }
