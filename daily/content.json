@@ -1,13 +1,5 @@
 {
  "days": {
-  "2026-10-30": {
-   "hadith": "“Görmediği bir şeyi iki gözüyle görmüş gibi göstermek, iftiraların en büyüklerindendir.”",
-   "hadithSource": "(Buhârî, “Tabîr”, 45)",
-   "pray": "\"Rabbimiz! Bizi hidayete erdirdikten sonra kalplerimizi eğriltme. Bize katından bir rahmet bahşet. Şüphesiz sen çok bahşedensin.\"",
-   "praySource": "(Âl-i İmrân, 3/8)",
-   "verse": "\"Münafıklar, Allah'ı aldatmaya çalışırlar. Allah da onların bu çabalarını başlarına geçirir. Onlar, namaza kalktıkları zaman tembel tembel kalkarlar, insanlara gösteriş yaparlar ve Allah'ı pek az anarlar.\"",
-   "verseSource": "(Nisâ, 4/142)"
-  },
   "2026-10-31": {
    "hadith": "“Günahlarından samimi olarak tövbe eden kişi, hiç günah işlememiş gibidir.”",
    "hadithSource": "(İbn-i Mâce,\" Zühd\", 30)",
@@ -55,6 +47,14 @@
    "praySource": "",
    "verse": "\"Mü'min erkeklere söyle, gözlerini haramdan sakınsınlar, ırzlarını korusunlar. Bu davranış onlar için daha nezihtir. Şüphe yok ki, Allah onların yaptıklarından hakkıyla haberdardır.\"",
    "verseSource": "(Nûr, 24/30)"
+  },
+  "2026-11-06": {
+   "hadith": "“Hiçbiriniz ölmeyi istemesin. Ölüm kendiliğinden gelmeden önce de öleyim diye dua etmesin. İnsan ölünce hiçbir iyilik yapamaz. Mü’minin hayatta kalması iyiliklerini çoğaltır.”",
+   "hadithSource": "(Müslim, \"Zikir\", 13)",
+   "pray": "\"Rabbimiz! Şüphesiz sen, gizlediğimizi de, açığa vurduğumuzu da bilirsin. Yerde ve gökte hiçbir şey Allah’a gizli kalmaz.\"",
+   "praySource": "(İbrahim, 14/38)",
+   "verse": "\"Kim Allah'a ve Resülüne itaat eder, Allah'tan korkar ve O'na karşı gelmekten sakınırsa, işte onlar başarıyı elde edenlerin ta kendileridir.\"",
+   "verseSource": "(Nûr, 24/52)"
   }
  }
 }
