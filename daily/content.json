@@ -1,13 +1,5 @@
 {
  "days": {
-  "2026-11-05": {
-   "hadith": "“Hiçbiriniz kendisi için istediğini (mü’min) kardeşi için istemedikçe (gerçek) iman etmiş olamaz.”",
-   "hadithSource": "(Buhârî, “Îmân”, 7; Müslim, “Îmân”, 71)",
-   "pray": "\"Rabbimiz! Sen, gizlediğimizi de açığa vurduğumuzu da bilensin.  Bizi, ailemizi ve müminleri açığa vurma. Tüm imtihanları kaybetmiş olsak da bizi rahmetine kabul et.\"",
-   "praySource": "",
-   "verse": "\"Mü'min erkeklere söyle, gözlerini haramdan sakınsınlar, ırzlarını korusunlar. Bu davranış onlar için daha nezihtir. Şüphe yok ki, Allah onların yaptıklarından hakkıyla haberdardır.\"",
-   "verseSource": "(Nûr, 24/30)"
-  },
   "2026-11-06": {
    "hadith": "“Hiçbiriniz ölmeyi istemesin. Ölüm kendiliğinden gelmeden önce de öleyim diye dua etmesin. İnsan ölünce hiçbir iyilik yapamaz. Mü’minin hayatta kalması iyiliklerini çoğaltır.”",
    "hadithSource": "(Müslim, \"Zikir\", 13)",
@@ -55,6 +47,14 @@
    "praySource": "",
    "verse": "\"Ölçüde haddi aşmayın. Tartıyı adaletle yapın, teraziyi eksik tutmayın. \"",
    "verseSource": "(Rahman, 55/8-9)"
+  },
+  "2026-11-12": {
+   "hadith": "“İnsanoğlunun bir vadi dolusu altını olsa bir ikincisini ister; onun (bu ihtirasını) ancak toprak (ölüm) doyurur. Allah, tövbe edenin tövbesini kabul eder”",
+   "hadithSource": "(Müslim, “Zekât”, 117)",
+   "pray": "\"Senin adını anarak ölür ve dirilirim (uyur ve uyanırım) Allahım!\"",
+   "praySource": "(Buhârî, \"De'avât\", 7)",
+   "verse": "\"Kıyametin kopacağı gün, işte o gün mü'minler ve kâfirler birbirinden ayrılacaklardır.\"",
+   "verseSource": "(Rûm, 30/14)"
   }
  }
 }
