@@ -1,13 +1,5 @@
 {
  "days": {
-  "2026-11-08": {
-   "hadith": "“İki günü eşit olan zarardadır”",
-   "hadithSource": "(el-Hatîb el-Bağdâdî, İktidâu’l-İlmi’l-Amele, No:122)",
-   "pray": "\"Sabahın aydınlığını var eden, geceyi dinlenme vakti yapan, güneşi ve ayı hesap vasıtası yapan Allah’ım! \nBana borçlarımı ödemeyi ihsan eyle, benden fakirliği gider, kulağımı, gözümü ve kuvvetimi Senin yolunda kullanmayı nasip eyle.\"",
-   "praySource": "(Malik, \"Dua\", No: 495)",
-   "verse": "“Onlar, inananlar ve kalpleri Allah’ı anmakla huzura kavuşanlardır. Biliniz ki, kalpler ancak Allah’ı anmakla huzur bulur.”",
-   "verseSource": "(Ra’d, 13/28)"
-  },
   "2026-11-09": {
    "hadith": "“İki haslet vardır ki bir mü'minde asla beraber bulunmazlar: Cimrilik ve kötü ahlâk.”",
    "hadithSource": "(Tirmizî, “Birr”, 41)",
@@ -55,6 +47,14 @@
    "praySource": "",
    "verse": "\"Kendileri ile huzur bulasınız diye sizin için türünüzden eşler yaratması ve aranızda bir sevgi ve merhamet var etmesi de onun (varlığının ve kudretinin) delillerindendir. Şüphesiz bunda düşünen bir toplum için elbette ibretler vardır.\"",
    "verseSource": "(Rûm, 30/21)"
+  },
+  "2026-11-15": {
+   "hadith": "“Kıyamet günü Allah katında insanların en kötülerinin ikiyüzlüler olduğunu görürsün.(Onlar) şunlara bir yüzle, bunlara diğer bir yüzle gelirler!”",
+   "hadithSource": "(Buhârî, \"Edeb\", 52)",
+   "pray": "\"Ülkemizi ve İslâm âlemini her türlü felâketlerden, musibetlerden, şerlerden ve tehlikelerden emin ve muhafaza eyle Allah’ım.\"",
+   "praySource": "",
+   "verse": "\"Göklerin ve yerin yaratılması, dillerinizin ve renklerinizin farklı olması da onun (varlığının ve kudretinin) delillerindendir. Şüphesiz bunda bilenler için elbette ibretler vardır.\"",
+   "verseSource": "(Rûm, 30/22)"
   }
  }
 }
