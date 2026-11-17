@@ -1,13 +1,5 @@
 {
  "days": {
-  "2026-11-11": {
-   "hadith": "“İman etmedikçe cennete giremezsiniz. Birbirinizi sevmedikçe de gerçek manada iman etmiş olamazsınız.”",
-   "hadithSource": "(Müslim, “Îmân”, 93; Tirmizî, “Sıfâtu’l-Kıyâme”, 56)",
-   "pray": "\"Sen bizleri Peygamber Efendimize lâyık ümmet eyle, yolunda ve sünnetinde daim ve kaim eyle. O’nun ahlâkıyla ahlakımızı tezyin eyle, sevgisine lâyık eyle Allah’ım!\"",
-   "praySource": "",
-   "verse": "\"Ölçüde haddi aşmayın. Tartıyı adaletle yapın, teraziyi eksik tutmayın. \"",
-   "verseSource": "(Rahman, 55/8-9)"
-  },
   "2026-11-12": {
    "hadith": "“İnsanoğlunun bir vadi dolusu altını olsa bir ikincisini ister; onun (bu ihtirasını) ancak toprak (ölüm) doyurur. Allah, tövbe edenin tövbesini kabul eder”",
    "hadithSource": "(Müslim, “Zekât”, 117)",
@@ -55,6 +47,14 @@
    "praySource": "",
    "verse": "\"Yoksa biz iman edip salih ameller işleyenleri, yeryüzünde fesat çıkaranlar gibi mi tutacağız? Yoksa Allah'a karşı gelmekten sakınanları yoldan çıkan arsızlar gibi mi tutacağız?\"",
    "verseSource": "(Sâd, 38/28)"
+  },
+  "2026-11-18": {
+   "hadith": "“Kim Allah için hacceder, çirkin söz ve günahlardan sakınırsa, annesinden doğduğu gün gibi günahlarından arınmış olarak döner.”",
+   "hadithSource": "(Buhârî, \"Hac\", 4)",
+   "pray": "\"Ya Rab! Bizlere hayırlı işler, helâl ve bereketli kazançlar nasip eyle!",
+   "praySource": "",
+   "verse": "“Bu Kur’an, âyetlerini düşünsünler ve akıl sahipleri öğüt alsınlar diye sana indirdiğimiz mübarek bir kitaptır.”",
+   "verseSource": "(Sâd, 38/29)"
   }
  }
 }
