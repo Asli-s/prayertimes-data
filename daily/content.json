@@ -1,13 +1,5 @@
 {
  "days": {
-  "2026-11-10": {
-   "hadith": "\"Dua, ibadetin özüdür.\"",
-   "hadithSource": "(Tirmizî, \"De'avât, 1)",
-   "pray": "\"Allah’ım! Senden Seni sevmeyi, Seni sevenleri sevmeyi ve Senin sevgine ulaştıran ameli yapmayı isterim…\"",
-   "praySource": "(Tirmizî, \"De’avât\", 73)",
-   "verse": "“Güzel bir söz ve bağışlama, peşinden gönül kırma gelen bir sadakadan daha hayırlıdır. Allah, her bakımdan sınırsız zengindir, halîmdir (hemen cezalandırmaz, mühlet verir).”",
-   "verseSource": "(Bakara, 2/263)"
-  },
   "2026-11-11": {
    "hadith": "“İman etmedikçe cennete giremezsiniz. Birbirinizi sevmedikçe de gerçek manada iman etmiş olamazsınız.”",
    "hadithSource": "(Müslim, “Îmân”, 93; Tirmizî, “Sıfâtu’l-Kıyâme”, 56)",
@@ -55,6 +47,14 @@
    "praySource": "",
    "verse": "\"Geceleyin uyumanız ve gündüzün onun lütfundan istemeniz de O'nun (varlığının ve kudretinin) delillerindendir. Şüphesiz bunda işiten bir toplum için ibretler vardır.\"",
    "verseSource": "(Rûm, 30/23)"
+  },
+  "2026-11-17": {
+   "hadith": "“Kıyâmet gününde mümin kulun (amel) terazisinde güzel ahlâktan daha ağır gelecek bir şey yoktur.  Allah, söz ve fiileri çirkin kimselere öfkelenir.\"",
+   "hadithSource": "(Tirmizî, \"Birr\", 62)",
+   "pray": "\"Ya Rab Sana açılan elleri, seni zikreden dilleri, sana yalvaran gönülleri huzurundan boş çevirme!\"",
+   "praySource": "",
+   "verse": "\"Yoksa biz iman edip salih ameller işleyenleri, yeryüzünde fesat çıkaranlar gibi mi tutacağız? Yoksa Allah'a karşı gelmekten sakınanları yoldan çıkan arsızlar gibi mi tutacağız?\"",
+   "verseSource": "(Sâd, 38/28)"
   }
  }
 }
