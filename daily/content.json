@@ -1,13 +1,5 @@
 {
  "days": {
-  "2026-11-12": {
-   "hadith": "“İnsanoğlunun bir vadi dolusu altını olsa bir ikincisini ister; onun (bu ihtirasını) ancak toprak (ölüm) doyurur. Allah, tövbe edenin tövbesini kabul eder”",
-   "hadithSource": "(Müslim, “Zekât”, 117)",
-   "pray": "\"Senin adını anarak ölür ve dirilirim (uyur ve uyanırım) Allahım!\"",
-   "praySource": "(Buhârî, \"De'avât\", 7)",
-   "verse": "\"Kıyametin kopacağı gün, işte o gün mü'minler ve kâfirler birbirinden ayrılacaklardır.\"",
-   "verseSource": "(Rûm, 30/14)"
-  },
   "2026-11-13": {
    "hadith": "“İyilik, güzel ahlaktır. Kötülük ise, vicdanını rahatsız eden ve başkalarının bilmesini istemediğin şeydir\"",
    "hadithSource": "(Müslim, \"Birr\", 14)",
@@ -55,6 +47,14 @@
    "praySource": "",
    "verse": "“Bu Kur’an, âyetlerini düşünsünler ve akıl sahipleri öğüt alsınlar diye sana indirdiğimiz mübarek bir kitaptır.”",
    "verseSource": "(Sâd, 38/29)"
+  },
+  "2026-11-19": {
+   "hadith": "“Kim içtenlikle Allah’tan şehit olmayı dilerse yatağı üzerinde bile ölse Allah onu şehitlerin makamlarına ulaştırır.”",
+   "hadithSource": "(Müslim, \"İmâre\", 157)",
+   "pray": "\"Yâ Rabbe’l-Âlemin! Dünyanın her neresinde olursa olsun ezilen, üzülen, horlanan,  işkence gören; açlık, \nkıtlık ve sefalet çeken mazlumlara, biçarelere imdat eyle, himmetini, yardımını üzerlerinden esirgeme!\"",
+   "praySource": "",
+   "verse": "“(Ey Resûlüm!) de ki: “Bu Kur’an, muazzam bir mesajdır, ama siz ondan yüz çeviriyorsunuz.”",
+   "verseSource": "(Sâd, 38/67-68)"
   }
  }
 }
