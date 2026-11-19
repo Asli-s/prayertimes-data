@@ -1,13 +1,5 @@
 {
  "days": {
-  "2026-11-13": {
-   "hadith": "“İyilik, güzel ahlaktır. Kötülük ise, vicdanını rahatsız eden ve başkalarının bilmesini istemediğin şeydir\"",
-   "hadithSource": "(Müslim, \"Birr\", 14)",
-   "pray": "\"Son nefesde sakla imânım benim  \n Bulmaya yol ana şeytanirracîm \"",
-   "praySource": "(Muhibbi/Kanuni Sultan Süleyman)",
-   "verse": "“İçinizden, kendileriyle huzura kavuşacağınız eşler yaratıp; aranızda muhabbet ve rahmet var etmesi, O’nun varlığının belgelerindendir. Bunlarda, düşünen millet için dersler vardır.\"",
-   "verseSource": "(Rûm, 30/20)"
-  },
   "2026-11-14": {
    "hadith": "“Kalbinde zerre kadar kibir olan kimse cennete giremez. Kalbinde zerre kadar iman olan da cehenneme girmez.\"",
    "hadithSource": "(Tirmizi, \"Birr\", 361)",
@@ -55,6 +47,14 @@
    "praySource": "",
    "verse": "“(Ey Resûlüm!) de ki: “Bu Kur’an, muazzam bir mesajdır, ama siz ondan yüz çeviriyorsunuz.”",
    "verseSource": "(Sâd, 38/67-68)"
+  },
+  "2026-11-20": {
+   "hadith": "“Kim ki üç tane kız çocuğu yetiştirir, güzel terbiye eder, evlendirir ve onlara iyilikte bulunursa, o kişi için cennet vardır.\"",
+   "hadithSource": "(Ebu Davud, \"Edeb\", 120, 121)",
+   "pray": "\"Yâ Rabbî! Bizim hâlimize bakarak muâmele etme. Kendi ikrâm ve ihsânına göre bize muâmele eyle.\"",
+   "praySource": "(Mevlana)",
+   "verse": "\"Ey iman edenler! Yapmayacağınız şeyleri niçin söylüyorsunuz? Yapmayacağınız şeyleri söylemeniz, Allah katında büyük gazap gerektiren bir iştir.\"",
+   "verseSource": "(Saff, 61/2-3)"
   }
  }
 }
