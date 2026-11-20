@@ -1,13 +1,5 @@
 {
  "days": {
-  "2026-11-14": {
-   "hadith": "“Kalbinde zerre kadar kibir olan kimse cennete giremez. Kalbinde zerre kadar iman olan da cehenneme girmez.\"",
-   "hadithSource": "(Tirmizi, \"Birr\", 361)",
-   "pray": "\"Son nefesimizde bizleri iman-ı kâmilden ayırma!  Bizlere ölüm acısı çektirme, kabir azabı yaşatma Allah’ım!\"",
-   "praySource": "",
-   "verse": "\"Kendileri ile huzur bulasınız diye sizin için türünüzden eşler yaratması ve aranızda bir sevgi ve merhamet var etmesi de onun (varlığının ve kudretinin) delillerindendir. Şüphesiz bunda düşünen bir toplum için elbette ibretler vardır.\"",
-   "verseSource": "(Rûm, 30/21)"
-  },
   "2026-11-15": {
    "hadith": "“Kıyamet günü Allah katında insanların en kötülerinin ikiyüzlüler olduğunu görürsün.(Onlar) şunlara bir yüzle, bunlara diğer bir yüzle gelirler!”",
    "hadithSource": "(Buhârî, \"Edeb\", 52)",
@@ -55,6 +47,14 @@
    "praySource": "(Mevlana)",
    "verse": "\"Ey iman edenler! Yapmayacağınız şeyleri niçin söylüyorsunuz? Yapmayacağınız şeyleri söylemeniz, Allah katında büyük gazap gerektiren bir iştir.\"",
    "verseSource": "(Saff, 61/2-3)"
+  },
+  "2026-11-21": {
+   "hadith": "“Kim kötü işlerden ve Allah’a karşı gelmekten sakınarak hac yaparsa, günahlardan temizlenerek anasından doğduğu gibi tertemiz hâle gelir”",
+   "hadithSource": "(Buhârî, “Hac”, 4)",
+   "pray": "\"Ya Rabbi! Yalnız senin rab oluşunu kabul eder ve ancak sana boyun eğeriz. Sana itaat etmekle iç huzuru ve gönül ferahlığı buluruz. Çünkü bütün korku ve ümidimizin ilk ve son kaynağı yalnız sensin. Sen korku vermezsen korku yok. Sen ümit vermezsen ümit yo",
+   "praySource": "(Elmalılı Hamdi Yazır)",
+   "verse": "\"Siz ancak işlediklerinizin karşılığı ile cezalandırılırsınız. Ancak Allah'ın halis kulları başka. İşte onlar için belli bir rızık, meyveler vardır. Onlar ikram gören kimselerdir.\"",
+   "verseSource": "(Saffât, 37/39-42)"
   }
  }
 }
