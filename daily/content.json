@@ -1,13 +1,5 @@
 {
  "days": {
-  "2026-11-15": {
-   "hadith": "“Kıyamet günü Allah katında insanların en kötülerinin ikiyüzlüler olduğunu görürsün.(Onlar) şunlara bir yüzle, bunlara diğer bir yüzle gelirler!”",
-   "hadithSource": "(Buhârî, \"Edeb\", 52)",
-   "pray": "\"Ülkemizi ve İslâm âlemini her türlü felâketlerden, musibetlerden, şerlerden ve tehlikelerden emin ve muhafaza eyle Allah’ım.\"",
-   "praySource": "",
-   "verse": "\"Göklerin ve yerin yaratılması, dillerinizin ve renklerinizin farklı olması da onun (varlığının ve kudretinin) delillerindendir. Şüphesiz bunda bilenler için elbette ibretler vardır.\"",
-   "verseSource": "(Rûm, 30/22)"
-  },
   "2026-11-16": {
    "hadith": "“Kıyamet günü en çetin azap görecek kimseler, dünyada insanlara en çok işkence eden kimselerdir.”",
    "hadithSource": "(İbn Hanbel, IV, 90)",
@@ -55,6 +47,14 @@
    "praySource": "(Elmalılı Hamdi Yazır)",
    "verse": "\"Siz ancak işlediklerinizin karşılığı ile cezalandırılırsınız. Ancak Allah'ın halis kulları başka. İşte onlar için belli bir rızık, meyveler vardır. Onlar ikram gören kimselerdir.\"",
    "verseSource": "(Saffât, 37/39-42)"
+  },
+  "2026-11-22": {
+   "hadith": "“Kim Müslüman kardeşinin onurunu savunursa Allah da kıyamet gününde onun yüzünden cehennem ateşini savar.”",
+   "hadithSource": "(Tirmizî, \"Birr\", 20)",
+   "pray": "\"Yarattığı şeylerin kötülüğünden, karanlığı çöktüğü zaman gecenin kötülüğünden, düğümlere üfleyenlerin kötülüğünden, haset ettiği zaman hasetçinin kötülüğünden, sabah aydınlığının Rabbine sığınırım.\"",
+   "praySource": "(Felak, 113/1-5)",
+   "verse": "\"Âyetlerimizi geçersiz kılmak için yarışırcasına çaba harcayanlar var ya; işte onlar için elem dolu, çok kötü bir azap vardır.\"",
+   "verseSource": "(Seb'e, 34/5)"
   }
  }
 }
