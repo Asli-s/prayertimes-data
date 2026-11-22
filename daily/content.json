@@ -1,13 +1,5 @@
 {
  "days": {
-  "2026-11-16": {
-   "hadith": "“Kıyamet günü en çetin azap görecek kimseler, dünyada insanlara en çok işkence eden kimselerdir.”",
-   "hadithSource": "(İbn Hanbel, IV, 90)",
-   "pray": "\"Ülkemizi ve İslam beldelerini rahmet,  bereket ve inayetinden mahrum eyleme Allah’ım!\"",
-   "praySource": "",
-   "verse": "\"Geceleyin uyumanız ve gündüzün onun lütfundan istemeniz de O'nun (varlığının ve kudretinin) delillerindendir. Şüphesiz bunda işiten bir toplum için ibretler vardır.\"",
-   "verseSource": "(Rûm, 30/23)"
-  },
   "2026-11-17": {
    "hadith": "“Kıyâmet gününde mümin kulun (amel) terazisinde güzel ahlâktan daha ağır gelecek bir şey yoktur.  Allah, söz ve fiileri çirkin kimselere öfkelenir.\"",
    "hadithSource": "(Tirmizî, \"Birr\", 62)",
@@ -55,6 +47,14 @@
    "praySource": "(Felak, 113/1-5)",
    "verse": "\"Âyetlerimizi geçersiz kılmak için yarışırcasına çaba harcayanlar var ya; işte onlar için elem dolu, çok kötü bir azap vardır.\"",
    "verseSource": "(Seb'e, 34/5)"
+  },
+  "2026-11-23": {
+   "hadith": "“Kimin üzerinde din kardeşinin ırzı, namusu veya malıyla ilgili bir hak varsa, altın ve gümüşün geçmediği hesap günü gelmeden helalleşsin. \nAksi takdirde, yaptığı haksızlık ölçüsünde, iyi amellerinden alınıp hak sahibine verilir. İyiliği yoksa hak sahibin günahından alınıp haksızlık eden kimseye yüklenir.”",
+   "hadithSource": "( Buharî, \"Mezalim\",210; \"Rikak\",48)",
+   "pray": "\"Yavrularımıza, hayırlı kısmetler, başarı, huzur, bereket ve sağlık içinde bir ömür lütfeyle! Onları her türlü kötülüklerden ve zararlı alışkanlıklardan muhafaza eyle Allah’ım!",
+   "praySource": "",
+   "verse": "\"Sizin için belirlenen bir gün vardır ki, ondan ne bir saat geri kalabilirsiniz, ne de ileri geçebilirsiniz.\"",
+   "verseSource": "(Seb'e, 34/30)"
   }
  }
 }
