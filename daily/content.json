@@ -1,13 +1,5 @@
 {
  "days": {
-  "2026-11-17": {
-   "hadith": "“Kıyâmet gününde mümin kulun (amel) terazisinde güzel ahlâktan daha ağır gelecek bir şey yoktur.  Allah, söz ve fiileri çirkin kimselere öfkelenir.\"",
-   "hadithSource": "(Tirmizî, \"Birr\", 62)",
-   "pray": "\"Ya Rab Sana açılan elleri, seni zikreden dilleri, sana yalvaran gönülleri huzurundan boş çevirme!\"",
-   "praySource": "",
-   "verse": "\"Yoksa biz iman edip salih ameller işleyenleri, yeryüzünde fesat çıkaranlar gibi mi tutacağız? Yoksa Allah'a karşı gelmekten sakınanları yoldan çıkan arsızlar gibi mi tutacağız?\"",
-   "verseSource": "(Sâd, 38/28)"
-  },
   "2026-11-18": {
    "hadith": "“Kim Allah için hacceder, çirkin söz ve günahlardan sakınırsa, annesinden doğduğu gün gibi günahlarından arınmış olarak döner.”",
    "hadithSource": "(Buhârî, \"Hac\", 4)",
@@ -55,6 +47,14 @@
    "praySource": "",
    "verse": "\"Sizin için belirlenen bir gün vardır ki, ondan ne bir saat geri kalabilirsiniz, ne de ileri geçebilirsiniz.\"",
    "verseSource": "(Seb'e, 34/30)"
+  },
+  "2026-11-24": {
+   "hadith": "“Kişi, -kıyamet günü- sevdiği kimse ile beraberdir.”",
+   "hadithSource": "(Buharî, “Edeb”, 96; Müslim, “Birr”, 165)",
+   "pray": "\"Yüce Rabbim! Bizleri işitip akleden, düşünüp kavrayan,  adaletle tedbir alan kullarından eyle!\"",
+   "praySource": "",
+   "verse": "“Suçlular Rablerinin huzurunda boyunlarını büküp, ‘Rabbimiz! (Gerçeği) gördük ve işittik. Artık şimdi bizi (dünyaya) döndür ki, salih amel işleyelim. Biz artık kesin olarak inanmaktayız’, dedikleri vakit (onları) bir görsen!”",
+   "verseSource": "(Secde, 32/12)"
   }
  }
 }
