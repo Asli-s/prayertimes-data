@@ -1,13 +1,5 @@
 {
  "days": {
-  "2026-11-19": {
-   "hadith": "“Kim içtenlikle Allah’tan şehit olmayı dilerse yatağı üzerinde bile ölse Allah onu şehitlerin makamlarına ulaştırır.”",
-   "hadithSource": "(Müslim, \"İmâre\", 157)",
-   "pray": "\"Yâ Rabbe’l-Âlemin! Dünyanın her neresinde olursa olsun ezilen, üzülen, horlanan,  işkence gören; açlık, \nkıtlık ve sefalet çeken mazlumlara, biçarelere imdat eyle, himmetini, yardımını üzerlerinden esirgeme!\"",
-   "praySource": "",
-   "verse": "“(Ey Resûlüm!) de ki: “Bu Kur’an, muazzam bir mesajdır, ama siz ondan yüz çeviriyorsunuz.”",
-   "verseSource": "(Sâd, 38/67-68)"
-  },
   "2026-11-20": {
    "hadith": "“Kim ki üç tane kız çocuğu yetiştirir, güzel terbiye eder, evlendirir ve onlara iyilikte bulunursa, o kişi için cennet vardır.\"",
    "hadithSource": "(Ebu Davud, \"Edeb\", 120, 121)",
@@ -55,6 +47,14 @@
    "praySource": "",
    "verse": "Hiç Mü'min (İman etmiş kimse) fasık (günaha batmış kimse) gibi olur mu? Bunlar elbette eşit değildirler.\"",
    "verseSource": "(Secde, 32/18)"
+  },
+  "2026-11-26": {
+   "hadith": "“Kişiyi ölürken üç şey uğurlar: Sevdikleri, malı ve yaptıkları. İlk ikisi geri döner ve o yaptıkları ile baş başa kalır.”",
+   "hadithSource": "(Buharî, “Rikak”, 42; Müslim, “Zühd”, 5)",
+   "pray": "“…Allahım! Nefsime takvasını (günahlardan sakınma duygusu) ver ve onu (her türlü günahtan) temizle, Sen temizleyenlerin en hayırlısısın. Onun koruyucusu ve efendisi de sensin...”",
+   "praySource": "(Müslim, \"Dua\", 73)",
+   "verse": "\"İman edip salih amel işleyenlere gelince, onlar için, yapmakta olduklarına karşılık bir mükafat olarak Me'vâ cennetleri vardır. \"",
+   "verseSource": "(Secde, 32/19)"
   }
  }
 }
