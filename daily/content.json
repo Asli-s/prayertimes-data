@@ -1,13 +1,5 @@
 {
  "days": {
-  "2026-11-20": {
-   "hadith": "“Kim ki üç tane kız çocuğu yetiştirir, güzel terbiye eder, evlendirir ve onlara iyilikte bulunursa, o kişi için cennet vardır.\"",
-   "hadithSource": "(Ebu Davud, \"Edeb\", 120, 121)",
-   "pray": "\"Yâ Rabbî! Bizim hâlimize bakarak muâmele etme. Kendi ikrâm ve ihsânına göre bize muâmele eyle.\"",
-   "praySource": "(Mevlana)",
-   "verse": "\"Ey iman edenler! Yapmayacağınız şeyleri niçin söylüyorsunuz? Yapmayacağınız şeyleri söylemeniz, Allah katında büyük gazap gerektiren bir iştir.\"",
-   "verseSource": "(Saff, 61/2-3)"
-  },
   "2026-11-21": {
    "hadith": "“Kim kötü işlerden ve Allah’a karşı gelmekten sakınarak hac yaparsa, günahlardan temizlenerek anasından doğduğu gibi tertemiz hâle gelir”",
    "hadithSource": "(Buhârî, “Hac”, 4)",
@@ -55,6 +47,14 @@
    "praySource": "(Müslim, \"Dua\", 73)",
    "verse": "\"İman edip salih amel işleyenlere gelince, onlar için, yapmakta olduklarına karşılık bir mükafat olarak Me'vâ cennetleri vardır. \"",
    "verseSource": "(Secde, 32/19)"
+  },
+  "2026-11-27": {
+   "hadith": "“Kul, bir günah işlediği zaman kalbinde siyah bir leke oluşur. Günahı bırakıp tövbe ederse kalbi arınır”",
+   "hadithSource": "(Müslim, “İman”, 231)",
+   "pray": "\"Bir vücudun uzuvları gibi olabilmeyi, kardeşlerimizin acısını da sevincini de yüreğimizde hissedebilmeyi nasip eyle Allah’ım.\"",
+   "praySource": "",
+   "verse": "\"Ölçüyü tam yapın. Eksik verenlerden olmayın.\" \"Doğru terazi ile tartın.\" \"İnsanların mallarını ve haklarını eksiltmeyin. Yeryüzünde bozgunculuk yaparak karışıklık çıkarmayın.\"",
+   "verseSource": "(Şu'arâ, 26/181-183)"
   }
  }
 }
